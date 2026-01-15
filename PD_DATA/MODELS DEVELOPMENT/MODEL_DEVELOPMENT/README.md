@@ -104,6 +104,8 @@ $$
 \hat{y} = g(z)
 $$
 
+![MODEL ARCHITECTURE](/figures/Multimodal_ensamble.png)
+![AI MODEL](/figures/AI_deply_methodology.png)
 This level captures **cross-domain interactions**, improving overall
 performance and robustness.
 
