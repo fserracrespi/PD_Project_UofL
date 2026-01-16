@@ -25,6 +25,7 @@ __pycache__/
 *.h5
 *.pdf
 *.docx
+*.zip
 
 # Pero no ignores los de esta carpeta
 !/PD_DATA/MODELS DEVELOPMENT/DATA FOR MODELS/*.csv
