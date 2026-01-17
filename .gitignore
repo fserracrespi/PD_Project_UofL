@@ -29,6 +29,7 @@ __pycache__/
 
 # Pero no ignores los de esta carpeta
 !/PD_DATA/MODELS DEVELOPMENT/DATA FOR MODELS/*.csv
+!/PD_DATA/MODELS DEVELOPMENT/DATA FOR MODELS/*.json
 
 # =========================
 # Jupyter
