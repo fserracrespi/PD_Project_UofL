@@ -9,8 +9,8 @@ The workflow follows a **modular and reproducible design**, aligned with transla
 ---
 
 ## 🧩 Project Pipeline Overview
-
 ![UPDRS III Progression Prediction Pipeline](figures/Project_areas.png)
+
 
 
 The project workflow is structured into **six sequential and interconnected stages (A–F)**, covering the full lifecycle from raw data to clinical translation.
