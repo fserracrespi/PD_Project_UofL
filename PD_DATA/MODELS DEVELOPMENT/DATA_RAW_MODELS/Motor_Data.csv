@@ -1,0 +1,912 @@
+PATNO,Visit ID,SCHWAB & ENGLAND ADL,MDS-UPDRS Part I (Patient Questionnaire) Total Score,MDS-UPDRS Part II Total Score,Does participant have DBS,MDS-UPDRS Part III Total Score,3.21 HOEHN AND YAHR STAGE,MDS-UPDRS Part IV Total Score,DBS_Transition_Visit,DBS_Post_Transition,MDS-UPDRS Total Score 1YearProg,UPDRS_III_1YearProg,MDS-UPDRS Total Score,Δ TOTAL_UPDRS_1Y,Δ UPDRS_I_1Y,Δ UPDRS_II_1Y,Δ UPDRS_III_1Y,Δ UPDRS_IV_1Y,UPDRS_I_Class,UPDRS_II_Class,UPDRS_III_Class,UPDRS_IV_Class,UPDRS_I_ProgressionType,UPDRS_II_ProgressionType,UPDRS_III_ProgressionType
+3001,V10_V12,90,6,5.0,0,35,2,0.0,False,0.0,37.0,26,46.0,-9.0,1,-1.0,-9,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3003,V10_V12,85,9,10.0,0,53,3,0.0,False,0.0,59.0,39,72.0,-13.0,2,-1.0,-14,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3010,V10_V12,80,11,16.0,0,18,2,7.0,False,0.0,70.0,34,52.0,18.0,0,4.0,16,-2.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+3023,V08_V10,90,8,8.0,0,34,2,0.0,False,0.0,52.0,37,50.0,2.0,-1,0.0,3,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,No significant change.
+3051,V08_V10,85,4,9.0,0,16,2,0.0,False,0.0,41.0,21,29.0,12.0,3,1.0,5,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3051,V10_V12,80,7,10.0,0,21,2,3.0,False,0.0,36.0,22,41.0,-5.0,-2,-5.0,1,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+3077,V04_V06,80,9,19.0,0,31,2,3.0,False,0.0,79.0,43,62.0,17.0,0,1.0,12,4.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3078,V06_V08,90,5,5.0,0,18,2,5.0,False,0.0,41.0,22,33.0,8.0,0,1.0,4,3.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+3078,V08_V10,95,5,6.0,0,22,1,8.0,False,0.0,26.0,18,41.0,-15.0,-4,-1.0,-4,-6.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial improv.
+3078,V10_V12,90,1,5.0,0,18,1,2.0,False,0.0,29.0,16,26.0,3.0,6,-2.0,-2,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3088,V06_V08,90,4,1.0,0,15,2,4.0,False,0.0,23.0,12,24.0,-1.0,1,0.0,-3,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3088,V08_V10,90,5,1.0,0,12,1,5.0,False,0.0,25.0,15,23.0,2.0,1,0.0,3,-2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+3088,V10_V12,95,6,1.0,0,15,2,3.0,False,0.0,23.0,12,25.0,-2.0,-1,0.0,-3,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3089,V04_V06,90,2,1.0,0,11,2,5.0,False,0.0,23.0,13,19.0,4.0,0,6.0,2,-4.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,No significant change.
+3089,V06_V08,80,2,7.0,0,13,2,1.0,False,0.0,21.0,9,23.0,-2.0,0,-1.0,-4,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3089,V08_V10,90,2,6.0,0,9,2,4.0,False,0.0,23.0,8,21.0,2.0,1,-2.0,-1,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3089,V10_V12,95,3,4.0,0,8,1,8.0,False,0.0,17.0,4,23.0,-6.0,1,2.0,-4,-5.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+3108,V04_V06,90,5,4.0,0,17,1,0.0,False,0.0,20.0,15,26.0,-6.0,-3,-1.0,-2,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3108,V06_V08,90,2,3.0,0,15,2,0.0,False,0.0,15.0,9,20.0,-5.0,0,1.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3108,V08_V10,80,2,4.0,0,9,2,0.0,False,0.0,27.0,12,15.0,12.0,1,6.0,3,2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3108,V10_V12,80,3,10.0,0,12,2,2.0,False,0.0,20.0,5,27.0,-7.0,3,-1.0,-7,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3119,V10_V12,80,1,9.0,0,31,2,0.0,False,0.0,37.0,26,41.0,-4.0,0,1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3122,V08_V10,90,5,4.0,0,20,2,0.0,False,0.0,23.0,14,29.0,-6.0,0,0.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3122,V10_V12,90,5,4.0,0,14,2,0.0,False,0.0,29.0,14,23.0,6.0,0,0.0,0,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3123,V08_V10,90,4,7.0,0,5,2,0.0,False,0.0,11.0,1,16.0,-5.0,0,-1.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3123,V10_V12,90,4,6.0,0,1,2,0.0,False,0.0,21.0,13,11.0,10.0,-1,-1.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3125,V04_V06,90,4,6.0,0,17,2,0.0,False,0.0,20.0,11,27.0,-7.0,-3,2.0,-6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+3125,V06_V08,90,1,8.0,0,11,2,0.0,False,0.0,7.0,1,20.0,-13.0,0,-4.0,-10,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3125,V08_V10,90,1,4.0,0,1,2,1.0,False,0.0,5.0,1,7.0,-2.0,0,-1.0,0,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3125,V10_V12,90,1,3.0,0,1,2,0.0,False,0.0,14.0,6,5.0,9.0,-1,4.0,5,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3130,V04_V06,90,0,3.0,0,5,2,0.0,False,0.0,19.0,17,8.0,11.0,0,-1.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3130,V06_V08,90,0,2.0,0,17,1,0.0,False,0.0,14.0,10,19.0,-5.0,2,0.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3130,V08_V10,90,2,2.0,0,10,1,0.0,False,0.0,7.0,2,14.0,-7.0,0,1.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3132,V10_V12,80,0,7.0,0,20,2,0.0,False,0.0,18.0,11,27.0,-9.0,0,0.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3168,V08_V10,65,18,17.0,0,65,4,2.0,False,0.0,95.0,64,102.0,-7.0,-10,-1.0,-1,5.0,Moderate,Moderate,Moderate,Mild,Substantial improv.,No significant change.,No significant change.
+3174,V04_V06,95,8,6.0,0,18,2,0.0,False,0.0,39.0,25,32.0,7.0,0,0.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3174,V06_V08,95,8,6.0,0,25,2,0.0,False,0.0,55.0,36,39.0,16.0,-1,0.0,11,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3174,V08_V10,95,7,6.0,0,36,2,6.0,False,0.0,36.0,18,55.0,-19.0,2,1.0,-18,-4.0,Mild,Mild,Moderate,Moderate,No significant change.,No significant change.,Substantial improv.
+3174,V10_V12,95,9,7.0,0,18,2,2.0,False,0.0,30.0,12,36.0,-6.0,1,1.0,-6,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3176,V08_V10,90,10,13.0,0,21,2,0.0,False,0.0,39.0,16,44.0,-5.0,-1,1.0,-5,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3176,V10_V12,95,9,14.0,0,16,2,0.0,False,0.0,43.0,13,39.0,4.0,2,2.0,-3,3.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3181,V06_V08,100,5,3.0,0,26,2,0.0,False,0.0,23.0,17,34.0,-11.0,0,-2.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3181,V08_V10,100,5,1.0,0,17,2,0.0,False,0.0,24.0,18,23.0,1.0,-2,2.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3184,V10_V12,100,3,0.0,0,10,2,1.0,False,0.0,8.0,4,14.0,-6.0,0,1.0,-6,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3203,V10_V12,90,13,13.0,0,23,2,4.0,False,0.0,60.0,24,53.0,7.0,3,0.0,1,3.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+3220,V08_V10,90,5,5.0,0,13,2,4.0,False,0.0,25.0,18,27.0,-2.0,-1,-2.0,5,-4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3220,V10_V12,90,4,3.0,0,18,2,0.0,False,0.0,35.0,25,25.0,10.0,0,0.0,7,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3223,V08_V10,90,9,22.0,0,29,2,0.0,False,0.0,49.0,19,60.0,-11.0,1,-5.0,-10,3.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3223,V10_V12,80,10,17.0,0,19,2,3.0,False,0.0,43.0,17,49.0,-6.0,-2,-4.0,-2,2.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+3229,V06_V08,90,4,5.0,0,27,2,0.0,False,0.0,63.0,39,36.0,27.0,3,5.0,12,7.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3230,V06_V08,90,8,8.0,0,15,2,0.0,False,0.0,43.0,27,31.0,12.0,-1,1.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3230,V08_V10,90,7,9.0,0,27,2,0.0,False,0.0,29.0,23,43.0,-14.0,-5,-8.0,-4,3.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+3230,V10_V12,100,2,1.0,0,23,2,3.0,False,0.0,29.0,23,29.0,0.0,2,1.0,0,-3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3231,V06_V08,100,6,1.0,0,14,2,0.0,False,0.0,24.0,15,21.0,3.0,0,1.0,1,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3231,V08_V10,90,6,2.0,0,15,2,1.0,False,0.0,23.0,13,24.0,-1.0,2,0.0,-2,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3231,V10_V12,95,8,2.0,0,13,2,0.0,False,0.0,22.0,10,23.0,-1.0,1,0.0,-3,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3234,V06_V08,100,2,5.0,0,24,2,0.0,False,0.0,38.0,30,31.0,7.0,1,0.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3234,V08_V10,90,3,5.0,0,30,2,0.0,False,0.0,43.0,33,38.0,5.0,1,1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3234,V10_V12,90,4,6.0,0,33,2,0.0,False,0.0,60.0,53,43.0,17.0,-3,0.0,20,0.0,Mild,Mild,Moderate,Mild,Substantial improv.,No significant change.,Substantial progress.
+3280,V10_V12,90,10,9.0,0,21,2,0.0,False,0.0,49.0,30,40.0,9.0,-5,-2.0,9,7.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+3285,V06_V08,100,11,1.0,0,29,2,0.0,False,0.0,36.0,25,41.0,-5.0,-4,3.0,-4,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+3285,V08_V10,90,7,4.0,0,25,2,0.0,False,0.0,49.0,36,36.0,13.0,1,1.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3285,V10_V12,90,8,5.0,0,36,2,0.0,False,0.0,54.0,35,49.0,5.0,4,2.0,-1,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,No significant change.,No significant change.
+3312,V04_V06,100,5,5.0,0,20,2,0.0,False,0.0,28.0,18,30.0,-2.0,0,0.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3312,V06_V08,95,5,5.0,0,18,2,0.0,False,0.0,44.0,31,28.0,16.0,0,0.0,13,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3312,V08_V10,80,5,5.0,0,31,2,3.0,False,0.0,40.0,26,44.0,-4.0,1,3.0,-5,-3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3312,V10_V12,95,6,8.0,0,26,2,0.0,False,0.0,36.0,26,40.0,-4.0,-3,-1.0,0,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3325,V06_V08,100,4,7.0,0,15,2,0.0,False,0.0,36.0,18,26.0,10.0,5,2.0,3,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3325,V08_V10,90,9,9.0,0,18,2,0.0,False,0.0,43.0,23,36.0,7.0,1,1.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3325,V10_V12,90,10,10.0,0,23,2,0.0,False,0.0,32.0,14,43.0,-11.0,-1,-1.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3327,V10_V12,100,3,1.0,0,12,1,0.0,False,0.0,10.0,4,16.0,-6.0,-2,0.0,-8,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3359,V04_V06,75,6,16.0,0,28,2,0.0,False,0.0,63.0,29,50.0,13.0,2,6.0,1,4.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3365,V04_V06,100,2,6.0,0,10,2,0.0,False,0.0,22.0,13,18.0,4.0,-1,2.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3365,V06_V08,100,1,8.0,0,13,1,0.0,False,0.0,30.0,15,22.0,8.0,2,4.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3365,V08_V10,100,3,12.0,0,15,1,0.0,False,0.0,37.0,16,30.0,7.0,2,2.0,1,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3365,V10_V12,100,5,14.0,0,16,2,2.0,False,0.0,39.0,16,37.0,2.0,4,-1.0,0,-1.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3366,V04_V06,90,6,13.0,0,20,2,0.0,False,0.0,33.0,17,39.0,-6.0,0,-3.0,-3,0.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3366,V06_V08,80,6,10.0,0,17,2,0.0,False,0.0,37.0,18,33.0,4.0,2,-3.0,1,4.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+3366,V08_V10,90,8,7.0,0,18,2,4.0,False,0.0,34.0,20,37.0,-3.0,-4,2.0,2,-3.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3366,V10_V12,90,4,9.0,0,20,2,1.0,False,0.0,46.0,26,34.0,12.0,1,2.0,6,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3367,V04_V06,95,4,8.0,0,10,2,7.0,False,0.0,30.0,7,29.0,1.0,2,6.0,-3,-4.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,Substantial improv.
+3367,V06_V08,95,6,14.0,0,7,2,3.0,False,0.0,37.0,7,30.0,7.0,7,-2.0,0,2.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3367,V08_V10,90,13,12.0,0,7,2,5.0,False,0.0,46.0,4,37.0,9.0,-1,8.0,-3,5.0,Moderate,Mild,Mild,Moderate,No significant change.,Substantial progress.,Substantial improv.
+3371,V10_V12,90,8,5.0,0,17,2,0.0,False,0.0,42.0,29,30.0,12.0,-2,2.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3373,V04_V06,95,0,2.0,0,6,1,0.0,False,0.0,9.0,5,8.0,1.0,1,1.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3373,V06_V08,95,1,3.0,0,5,1,0.0,False,0.0,8.0,4,9.0,-1.0,0,0.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3373,V08_V10,95,1,3.0,0,4,2,0.0,False,0.0,20.0,12,8.0,12.0,0,1.0,8,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3373,V10_V12,95,1,4.0,0,12,1,3.0,False,0.0,21.0,13,20.0,1.0,1,2.0,1,-3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3374,V08_V10,95,3,3.0,0,26,2,0.0,False,0.0,27.0,24,32.0,-5.0,-2,-1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3374,V10_V12,95,1,2.0,0,24,2,0.0,False,0.0,46.0,35,27.0,19.0,4,4.0,11,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+3377,V10_V12,95,7,3.0,0,2,1,4.0,False,0.0,17.0,3,16.0,1.0,0,0.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3383,V06_V08,90,3,11.0,0,15,2,8.0,False,0.0,44.0,11,37.0,7.0,6,7.0,-4,-2.0,Mild,Mild,Mild,Moderate,Substantial progress.,Substantial progress.,Substantial improv.
+3392,V10_V12,90,4,3.0,0,22,2,6.0,False,0.0,40.0,15,35.0,5.0,6,2.0,-7,4.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,Substantial improv.
+3400,V06_V08,80,13,19.0,0,27,2,0.0,False,0.0,77.0,34,59.0,18.0,4,7.0,7,0.0,Moderate,Moderate,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+3400,V08_V10,70,17,26.0,0,34,2,0.0,False,0.0,66.0,12,77.0,-11.0,3,1.0,-22,7.0,Moderate,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3400,V10_V12,70,20,27.0,0,12,2,7.0,False,0.0,49.0,11,66.0,-17.0,-1,-12.0,-1,-3.0,Moderate,Moderate,Mild,Moderate,No significant change.,Substantial improv.,No significant change.
+3407,V08_V10,85,2,4.0,0,36,2,0.0,False,0.0,51.0,43,42.0,9.0,5,-3.0,7,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,Substantial improv.,Substantial progress.
+3407,V10_V12,90,7,1.0,0,43,2,0.0,False,0.0,33.0,26,51.0,-18.0,-5,0.0,-17,4.0,Mild,Mild,Moderate,Mild,Substantial improv.,No significant change.,Substantial improv.
+3415,V06_V08,80,4,12.0,0,42,2,0.0,False,0.0,37.0,19,58.0,-21.0,3,-1.0,-23,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3415,V08_V10,80,7,11.0,0,19,2,0.0,False,0.0,55.0,36,37.0,18.0,-1,2.0,17,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3415,V10_V12,80,6,13.0,0,36,2,0.0,False,0.0,52.0,29,55.0,-3.0,3,-1.0,-7,2.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3420,V06_V08,95,5,2.0,0,8,1,0.0,False,0.0,21.0,6,15.0,6.0,4,3.0,-2,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3420,V08_V10,90,9,5.0,0,6,1,1.0,False,0.0,28.0,10,21.0,7.0,-2,4.0,4,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3420,V10_V12,90,7,9.0,0,10,1,2.0,False,0.0,41.0,23,28.0,13.0,4,-2.0,13,-2.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+3422,V06_V08,90,4,8.0,0,21,2,0.0,False,0.0,37.0,21,33.0,4.0,2,2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3422,V08_V10,80,6,10.0,0,21,2,0.0,False,0.0,37.0,17,37.0,0.0,3,1.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3422,V10_V12,80,9,11.0,0,17,2,0.0,False,0.0,48.0,28,37.0,11.0,0,0.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3429,V08_V10,80,3,9.0,0,17,1,0.0,False,0.0,24.0,15,29.0,-5.0,-2,-1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3429,V10_V12,80,1,8.0,0,15,2,0.0,False,0.0,40.0,21,24.0,16.0,2,4.0,6,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3431,V10_V12,100,13,2.0,0,7,1,0.0,False,0.0,34.0,14,22.0,12.0,4,1.0,7,0.0,Moderate,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+3435,V08_V10,80,5,5.0,0,28,2,0.0,False,0.0,48.0,31,38.0,10.0,3,4.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3435,V10_V12,80,8,9.0,0,31,2,0.0,False,0.0,63.0,39,48.0,15.0,2,2.0,8,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3439,V06_V08,80,4,10.0,0,17,2,0.0,False,0.0,35.0,23,31.0,4.0,0,-2.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3439,V08_V10,80,4,8.0,0,23,2,0.0,False,0.0,36.0,23,35.0,1.0,-1,2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3439,V10_V12,80,3,10.0,0,23,2,0.0,False,0.0,34.0,19,36.0,-2.0,0,0.0,-4,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3443,V04_V06,80,8,4.0,0,25,1,0.0,False,0.0,50.0,38,37.0,13.0,1,-1.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3443,V06_V08,80,9,3.0,0,38,2,0.0,False,0.0,55.0,36,50.0,5.0,4,3.0,-2,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,No significant change.,No significant change.
+3443,V08_V10,80,13,6.0,0,36,2,0.0,False,0.0,51.0,38,55.0,-4.0,-6,0.0,2,0.0,Moderate,Mild,Moderate,Mild,Substantial improv.,No significant change.,No significant change.
+3443,V10_V12,80,7,6.0,0,38,2,0.0,False,0.0,66.0,45,51.0,15.0,4,2.0,7,2.0,Mild,Mild,Moderate,Mild,Substantial progress.,No significant change.,Substantial progress.
+3444,V04_V06,80,12,10.0,0,30,2,0.0,False,0.0,46.0,23,52.0,-6.0,-3,4.0,-7,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+3444,V06_V08,80,9,14.0,0,23,2,0.0,False,0.0,54.0,26,46.0,8.0,4,1.0,3,0.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3444,V08_V10,90,13,15.0,0,26,2,0.0,False,0.0,61.0,34,54.0,7.0,-1,0.0,8,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3444,V10_V12,80,12,15.0,0,34,2,0.0,False,0.0,86.0,47,61.0,25.0,1,9.0,13,2.0,Moderate,Moderate,Moderate,Mild,No significant change.,Substantial progress.,Substantial progress.
+3448,V06_V08,80,3,7.0,0,16,2,0.0,False,0.0,19.0,11,26.0,-7.0,1,-3.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3448,V08_V10,80,4,4.0,0,11,2,0.0,False,0.0,19.0,6,19.0,0.0,6,-1.0,-5,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+3448,V10_V12,80,10,3.0,0,6,1,0.0,False,0.0,36.0,15,19.0,17.0,0,5.0,9,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3451,V04_V06,95,3,10.0,0,15,2,0.0,False,0.0,26.0,13,28.0,-2.0,0,0.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3451,V06_V08,90,3,10.0,0,13,2,0.0,False,0.0,31.0,16,26.0,5.0,-2,1.0,3,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3451,V08_V10,95,1,11.0,0,16,2,3.0,False,0.0,44.0,15,31.0,13.0,3,8.0,-1,3.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3451,V10_V12,90,4,19.0,0,15,2,6.0,False,0.0,44.0,26,44.0,0.0,-2,-5.0,11,-4.0,Mild,Moderate,Mild,Moderate,No significant change.,Substantial improv.,Substantial progress.
+3459,V10_V12,90,9,17.0,0,46,2,1.0,False,0.0,63.0,34,73.0,-10.0,4,-4.0,-12,2.0,Mild,Moderate,Moderate,Mild,Substantial progress.,Substantial improv.,Substantial improv.
+3461,V08_V10,90,4,3.0,0,46,2,3.0,False,0.0,50.0,41,56.0,-6.0,1,-1.0,-5,-1.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3461,V10_V12,90,5,2.0,0,41,2,2.0,False,0.0,38.0,30,50.0,-12.0,1,0.0,-11,-2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3467,V06_V08,90,4,11.0,0,18,2,0.0,False,0.0,33.0,16,33.0,0.0,0,2.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3467,V08_V10,80,4,13.0,0,16,1,0.0,False,0.0,46.0,30,33.0,13.0,1,-2.0,14,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3467,V10_V12,90,5,11.0,0,30,2,0.0,False,0.0,50.0,29,46.0,4.0,3,-1.0,-1,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3472,V06_V08,100,9,10.0,0,6,1,0.0,False,0.0,28.0,9,25.0,3.0,1,-1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3472,V08_V10,95,10,9.0,0,9,1,0.0,False,0.0,43.0,14,28.0,15.0,0,10.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3472,V10_V12,90,10,19.0,0,14,2,0.0,False,0.0,51.0,20,43.0,8.0,0,2.0,6,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3475,V08_V10,95,0,5.0,0,24,2,0.0,False,0.0,28.0,22,29.0,-1.0,2,-1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3475,V10_V12,95,2,4.0,0,22,2,0.0,False,0.0,25.0,19,28.0,-3.0,-1,1.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3516,V08_V10,90,13,14.0,0,36,2,0.0,False,0.0,44.0,17,63.0,-19.0,3,-3.0,-19,0.0,Moderate,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+3522,V08_V10,100,4,8.0,0,31,2,0.0,False,0.0,29.0,21,43.0,-14.0,-2,-2.0,-10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3522,V10_V12,90,2,6.0,0,21,2,0.0,False,0.0,40.0,31,29.0,11.0,0,1.0,10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3542,V06_V08,80,8,12.0,0,37,2,0.0,False,0.0,59.0,31,57.0,2.0,3,5.0,-6,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3542,V08_V10,90,11,17.0,0,31,2,0.0,False,0.0,51.0,35,59.0,-8.0,-7,-5.0,4,0.0,Moderate,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,No significant change.
+3564,V08_V10,90,7,11.0,0,29,2,0.0,False,0.0,43.0,25,47.0,-4.0,0,0.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3564,V10_V12,90,7,11.0,0,25,2,0.0,False,0.0,53.0,31,43.0,10.0,-2,1.0,6,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3577,V04_V06,90,8,8.0,0,30,2,0.0,False,0.0,43.0,36,46.0,-3.0,-8,-1.0,6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+3577,V06_V08,90,0,7.0,0,36,2,0.0,False,0.0,43.0,31,43.0,0.0,7,-2.0,-5,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,No significant change.,Substantial improv.
+3577,V08_V10,90,7,5.0,0,31,2,0.0,False,0.0,52.0,34,43.0,9.0,3,3.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3577,V10_V12,90,10,8.0,0,34,2,0.0,False,0.0,50.0,32,52.0,-2.0,-1,1.0,-2,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,No significant change.
+3585,V08_V10,90,18,13.0,0,28,2,0.0,False,0.0,56.0,20,59.0,-3.0,-2,2.0,-8,5.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3585,V10_V12,90,16,15.0,0,20,2,5.0,False,0.0,63.0,25,56.0,7.0,1,2.0,5,-1.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,No significant change.
+3591,V04_V06,90,6,1.0,0,15,2,0.0,False,0.0,34.0,18,22.0,12.0,3,6.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3591,V10_V12,90,8,2.0,0,19,2,0.0,False,0.0,28.0,15,29.0,-1.0,0,0.0,-4,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3593,V10_V12,90,2,5.0,0,29,2,0.0,False,0.0,32.0,19,36.0,-4.0,3,3.0,-10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3601,V10_V12,100,6,8.0,0,41,2,0.0,False,0.0,42.0,27,55.0,-13.0,-1,-2.0,-14,4.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3603,V08_V10,100,9,3.0,0,24,2,0.0,False,0.0,46.0,27,36.0,10.0,1,6.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3603,V10_V12,90,10,9.0,0,27,2,0.0,False,0.0,30.0,14,46.0,-16.0,2,-5.0,-13,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3607,V10_V12,100,5,3.0,0,16,2,0.0,False,0.0,36.0,19,24.0,12.0,2,6.0,3,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3612,V04_V06,90,4,6.0,0,8,2,0.0,False,0.0,21.0,6,18.0,3.0,3,1.0,-2,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3612,V06_V08,90,7,7.0,0,6,1,1.0,False,0.0,27.0,7,21.0,6.0,1,0.0,1,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3612,V08_V10,90,8,7.0,0,7,1,5.0,False,0.0,31.0,10,27.0,4.0,3,-1.0,3,-1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+3612,V10_V12,100,11,6.0,0,10,2,4.0,False,0.0,28.0,8,31.0,-3.0,-4,2.0,-2,1.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3622,V08_V10,90,9,7.0,0,24,1,0.0,False,0.0,35.0,23,40.0,-5.0,-5,1.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3622,V10_V12,90,4,8.0,0,23,2,0.0,False,0.0,41.0,11,35.0,6.0,7,3.0,-12,8.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+3629,V06_V08,90,5,5.0,0,13,2,0.0,False,0.0,23.0,13,23.0,0.0,-1,1.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3629,V08_V10,90,4,6.0,0,13,1,0.0,False,0.0,21.0,10,23.0,-2.0,1,0.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3629,V10_V12,100,5,6.0,0,10,1,0.0,False,0.0,38.0,7,21.0,17.0,5,8.0,-3,7.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial improv.
+3654,V10_V12,70,8,23.0,0,44,2,0.0,False,0.0,19.0,5,75.0,-56.0,2,-20.0,-39,1.0,Mild,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+3752,V06_V08,100,6,5.0,0,25,2,0.0,False,0.0,54.0,36,36.0,18.0,1,5.0,11,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3752,V08_V10,90,7,10.0,0,36,2,1.0,False,0.0,44.0,28,54.0,-10.0,-1,0.0,-8,-1.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3752,V10_V12,90,6,10.0,0,28,2,0.0,False,0.0,50.0,30,44.0,6.0,2,2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3762,V06_V08,100,9,6.0,0,30,2,0.0,False,0.0,32.0,18,45.0,-13.0,2,-3.0,-12,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3762,V08_V10,90,11,3.0,0,18,2,0.0,False,0.0,33.0,23,32.0,1.0,-5,1.0,5,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3762,V10_V12,90,6,4.0,0,23,2,0.0,False,0.0,19.0,12,33.0,-14.0,-1,-2.0,-11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3773,V04_V06,100,1,10.0,0,28,2,0.0,False,0.0,23.0,18,39.0,-16.0,1,-7.0,-10,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3773,V06_V08,100,2,3.0,0,18,2,0.0,False,0.0,39.0,32,23.0,16.0,-2,4.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3775,V04_V06,100,4,7.0,0,24,2,0.0,False,0.0,27.0,22,35.0,-8.0,-1,-5.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+3775,V06_V08,100,3,2.0,0,22,2,0.0,False,0.0,31.0,19,27.0,4.0,2,5.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3775,V08_V10,90,5,7.0,0,19,2,0.0,False,0.0,40.0,28,31.0,9.0,2,-2.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3775,V10_V12,100,7,5.0,0,28,2,0.0,False,0.0,41.0,30,40.0,1.0,0,-1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3776,V04_V06,90,1,7.0,0,18,2,0.0,False,0.0,33.0,23,26.0,7.0,2,0.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3776,V06_V08,90,3,7.0,0,23,2,0.0,False,0.0,38.0,21,33.0,5.0,3,4.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3776,V08_V10,90,6,11.0,0,21,2,0.0,False,0.0,32.0,16,38.0,-6.0,0,-1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3777,V06_V08,90,2,5.0,0,29,2,0.0,False,0.0,42.0,36,36.0,6.0,-1,0.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3778,V06_V08,90,6,3.0,0,27,2,2.0,False,0.0,39.0,26,38.0,1.0,1,3.0,-1,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3778,V08_V10,90,7,6.0,0,26,2,0.0,False,0.0,53.0,36,39.0,14.0,1,3.0,10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3780,V04_V06,100,0,4.0,0,21,2,0.0,False,0.0,25.0,21,25.0,0.0,1,-1.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3780,V06_V08,100,1,3.0,0,21,2,0.0,False,0.0,18.0,14,25.0,-7.0,-1,1.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3781,V04_V06,100,5,4.0,0,16,2,0.0,False,0.0,39.0,19,25.0,14.0,3,8.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+3781,V06_V08,90,8,12.0,0,19,2,0.0,False,0.0,49.0,31,39.0,10.0,-2,0.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3785,V04_V06,90,0,4.0,0,16,2,0.0,False,0.0,16.0,14,20.0,-4.0,0,-2.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3785,V06_V08,90,0,2.0,0,14,2,0.0,False,0.0,17.0,16,16.0,1.0,1,-2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3785,V08_V10,90,1,0.0,0,16,2,0.0,False,0.0,15.0,11,17.0,-2.0,-1,4.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3785,V10_V12,90,0,4.0,0,11,1,0.0,False,0.0,16.0,15,15.0,1.0,0,-3.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+3787,V04_V06,100,1,5.0,0,12,2,0.0,False,0.0,27.0,15,18.0,9.0,3,3.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3787,V06_V08,90,4,8.0,0,15,2,0.0,False,0.0,37.0,20,27.0,10.0,1,4.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3787,V08_V10,90,5,12.0,0,20,2,0.0,False,0.0,28.0,13,37.0,-9.0,0,-2.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3787,V10_V12,90,5,10.0,0,13,1,0.0,False,0.0,25.0,11,28.0,-3.0,-2,1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3789,V04_V06,80,5,13.0,0,44,3,0.0,False,0.0,43.0,24,62.0,-19.0,-1,2.0,-20,0.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3793,V04_V06,90,1,8.0,0,32,2,0.0,False,0.0,25.0,16,41.0,-16.0,1,-1.0,-16,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3793,V06_V08,90,2,7.0,0,16,1,0.0,False,0.0,30.0,18,25.0,5.0,1,2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3793,V08_V10,90,3,9.0,0,18,1,0.0,False,0.0,30.0,25,30.0,0.0,-3,-4.0,7,0.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial progress.
+3793,V10_V12,90,0,5.0,0,25,2,0.0,False,0.0,25.0,19,30.0,-5.0,1,0.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3795,V04_V06,90,8,2.0,0,10,2,0.0,False,0.0,24.0,10,20.0,4.0,1,3.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3795,V06_V08,90,9,5.0,0,10,1,0.0,False,0.0,21.0,6,24.0,-3.0,-1,2.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3795,V08_V10,90,8,7.0,0,6,1,0.0,False,0.0,31.0,14,21.0,10.0,3,-2.0,8,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3795,V10_V12,90,11,5.0,0,14,2,1.0,False,0.0,31.0,15,31.0,0.0,-3,-2.0,1,4.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3800,V04_V06,100,0,8.0,0,4,2,0.0,False,0.0,25.0,16,12.0,13.0,3,-2.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3800,V06_V08,90,3,6.0,0,16,2,0.0,False,0.0,17.0,8,25.0,-8.0,2,-2.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3800,V08_V10,90,5,4.0,0,8,1,0.0,False,0.0,22.0,11,17.0,5.0,1,1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3800,V10_V12,90,6,5.0,0,11,1,0.0,False,0.0,17.0,9,22.0,-5.0,-2,-1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3808,V04_V06,100,7,2.0,0,16,1,0.0,False,0.0,23.0,13,25.0,-2.0,1,0.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3808,V06_V08,90,8,2.0,0,13,1,0.0,False,0.0,27.0,8,23.0,4.0,5,3.0,-5,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+3808,V08_V10,90,13,5.0,0,8,1,1.0,False,0.0,23.0,8,27.0,-4.0,-1,-2.0,0,-1.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3808,V10_V12,90,12,3.0,0,8,1,0.0,False,0.0,27.0,11,23.0,4.0,1,0.0,3,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3814,V04_V06,90,5,6.0,0,17,2,0.0,False,0.0,27.0,16,28.0,-1.0,0,0.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3814,V06_V08,80,5,6.0,0,16,2,0.0,False,0.0,28.0,15,27.0,1.0,-1,3.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3814,V08_V10,90,4,9.0,0,15,1,0.0,False,0.0,28.0,14,28.0,0.0,1,0.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3814,V10_V12,90,5,9.0,0,14,1,0.0,False,0.0,35.0,17,28.0,7.0,1,2.0,3,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3815,V04_V06,100,6,3.0,0,7,1,0.0,False,0.0,21.0,13,16.0,5.0,-4,3.0,6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+3815,V06_V08,90,2,6.0,0,13,1,0.0,False,0.0,49.0,29,21.0,28.0,4,8.0,16,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+3815,V08_V10,90,6,14.0,0,29,2,0.0,False,0.0,31.0,11,49.0,-18.0,2,-3.0,-18,1.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+3815,V10_V12,80,8,11.0,0,11,1,1.0,False,0.0,41.0,22,31.0,10.0,-1,1.0,11,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3819,V04_V06,90,1,2.0,0,8,1,0.0,False,0.0,16.0,7,11.0,5.0,4,2.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3819,V06_V08,90,5,4.0,0,7,1,0.0,False,0.0,20.0,9,16.0,4.0,2,0.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3819,V08_V10,90,7,4.0,0,9,1,0.0,False,0.0,15.0,8,20.0,-5.0,-3,-1.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3819,V10_V12,90,4,3.0,0,8,1,0.0,False,0.0,18.0,8,15.0,3.0,1,0.0,0,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3822,V04_V06,90,2,2.0,0,20,2,0.0,False,0.0,31.0,22,24.0,7.0,3,2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3822,V06_V08,90,5,4.0,0,22,2,0.0,False,0.0,33.0,26,31.0,2.0,-4,2.0,4,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3822,V08_V10,90,1,6.0,0,26,2,0.0,False,0.0,29.0,19,33.0,-4.0,0,3.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3822,V10_V12,90,1,9.0,0,19,2,0.0,False,0.0,35.0,25,29.0,6.0,0,0.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3823,V08_V10,90,10,5.0,0,12,1,0.0,False,0.0,30.0,13,27.0,3.0,-2,4.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3823,V10_V12,90,8,9.0,0,13,2,0.0,False,0.0,36.0,15,30.0,6.0,1,3.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3825,V08_V10,90,0,6.0,0,10,2,0.0,False,0.0,36.0,26,16.0,20.0,3,1.0,16,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3825,V10_V12,90,3,7.0,0,26,2,0.0,False,0.0,21.0,12,36.0,-15.0,-2,1.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3826,V04_V06,90,7,10.0,0,5,1,0.0,False,0.0,25.0,14,22.0,3.0,-4,-2.0,9,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+3826,V06_V08,90,3,8.0,0,14,2,0.0,False,0.0,36.0,25,25.0,11.0,0,0.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3826,V08_V10,90,3,8.0,0,25,2,0.0,False,0.0,43.0,25,36.0,7.0,5,2.0,0,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3826,V10_V12,80,8,10.0,0,25,2,0.0,False,0.0,55.0,35,43.0,12.0,1,1.0,10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3829,V04_V06,70,12,8.0,0,19,1,0.0,False,0.0,21.0,11,39.0,-18.0,-7,-3.0,-8,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+3829,V06_V08,90,5,5.0,0,11,1,0.0,False,0.0,21.0,11,21.0,0.0,2,-2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3829,V08_V10,90,7,3.0,0,11,1,0.0,False,0.0,28.0,14,21.0,7.0,4,0.0,3,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+3829,V10_V12,90,11,3.0,0,14,2,0.0,False,0.0,43.0,30,28.0,15.0,-3,0.0,16,2.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+3830,V04_V06,90,3,5.0,0,13,1,0.0,False,0.0,12.0,5,21.0,-9.0,0,-1.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3830,V06_V08,90,3,4.0,0,5,1,0.0,False,0.0,32.0,23,12.0,20.0,1,1.0,18,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3830,V08_V10,90,4,5.0,0,23,2,0.0,False,0.0,17.0,9,32.0,-15.0,1,-2.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3830,V10_V12,90,5,3.0,0,9,2,0.0,False,0.0,13.0,8,17.0,-4.0,-3,0.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+3832,V04_V06,90,3,4.0,0,11,1,0.0,False,0.0,26.0,14,18.0,8.0,3,2.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3832,V06_V08,100,6,6.0,0,14,1,0.0,False,0.0,19.0,9,26.0,-7.0,-1,-1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3838,V04_V06,90,4,4.0,0,9,1,0.0,False,0.0,16.0,8,17.0,-1.0,0,0.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3838,V06_V08,90,4,4.0,0,8,1,0.0,False,0.0,14.0,7,16.0,-2.0,1,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3838,V08_V10,90,5,2.0,0,7,1,0.0,False,0.0,19.0,11,14.0,5.0,0,-1.0,4,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3838,V10_V12,90,5,1.0,0,11,1,2.0,False,0.0,7.0,5,19.0,-12.0,-4,0.0,-6,-2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+3869,V04_V06,90,4,5.0,0,13,1,0.0,False,0.0,23.0,19,22.0,1.0,-2,-3.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+3900,V06_V08,100,5,5.0,0,19,2,0.0,False,0.0,29.0,16,29.0,0.0,1,2.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3900,V08_V10,100,6,7.0,0,16,2,0.0,False,0.0,34.0,17,29.0,5.0,1,3.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3910,V04_V06,100,2,2.0,0,26,2,0.0,False,0.0,32.0,27,30.0,2.0,0,1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3910,V06_V08,100,2,3.0,0,27,2,0.0,False,0.0,40.0,31,32.0,8.0,1,3.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3911,V06_V08,90,7,9.0,0,37,2,0.0,False,0.0,38.0,22,53.0,-15.0,-1,1.0,-15,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+3911,V08_V10,95,6,10.0,0,22,1,0.0,False,0.0,51.0,31,38.0,13.0,4,0.0,9,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+3951,V06_V08,90,0,6.0,0,16,1,1.0,False,0.0,13.0,8,23.0,-10.0,1,-2.0,-8,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3951,V08_V10,90,1,4.0,0,8,1,0.0,False,0.0,11.0,5,13.0,-2.0,1,0.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3951,V10_V12,80,2,4.0,0,5,2,0.0,False,0.0,30.0,17,11.0,19.0,2,3.0,12,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+3954,V08_V10,90,9,3.0,0,26,1,0.0,False,0.0,25.0,12,38.0,-13.0,1,0.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+3960,V06_V08,90,4,10.0,0,10,1,0.0,False,0.0,26.0,11,24.0,2.0,0,-1.0,1,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3960,V08_V10,90,4,9.0,0,11,1,2.0,False,0.0,22.0,9,26.0,-4.0,-1,1.0,-2,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+3960,V10_V12,95,3,10.0,0,9,1,0.0,False,0.0,20.0,5,22.0,-2.0,1,1.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4001,V04_V06,90,7,15.0,0,23,2,0.0,False,0.0,50.0,36,45.0,5.0,-7,-1.0,13,0.0,Mild,Moderate,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+4001,V06_V08,90,0,14.0,0,36,2,0.0,False,0.0,46.0,29,50.0,-4.0,4,-1.0,-7,0.0,Mild,Moderate,Moderate,Mild,Substantial progress.,No significant change.,Substantial improv.
+4001,V08_V10,90,4,13.0,0,29,2,0.0,False,0.0,33.0,19,46.0,-13.0,-4,1.0,-10,0.0,Mild,Moderate,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+4011,V06_V08,95,5,6.0,0,23,2,0.0,False,0.0,33.0,19,34.0,-1.0,0,3.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4011,V08_V10,90,5,9.0,0,19,2,0.0,False,0.0,49.0,34,33.0,16.0,2,-1.0,15,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4012,V08_V10,90,2,5.0,0,39,2,0.0,False,0.0,43.0,35,46.0,-3.0,1,0.0,-4,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+4012,V10_V12,90,3,5.0,0,35,2,0.0,False,0.0,54.0,43,43.0,11.0,1,2.0,8,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial progress.
+4019,V08_V10,95,5,4.0,0,28,2,0.0,False,0.0,24.0,21,37.0,-13.0,-3,-3.0,-7,0.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+4019,V10_V12,95,2,1.0,0,21,2,0.0,False,0.0,12.0,7,24.0,-12.0,0,2.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4022,V06_V08,95,1,5.0,0,27,2,0.0,False,0.0,45.0,31,33.0,12.0,4,4.0,4,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+4024,V10_V12,90,9,22.0,0,35,2,5.0,False,0.0,65.0,34,71.0,-6.0,0,-5.0,-1,0.0,Mild,Moderate,Moderate,Moderate,No significant change.,Substantial improv.,No significant change.
+4025,V04_V06,70,9,9.0,0,26,2,0.0,False,0.0,40.0,19,44.0,-4.0,0,3.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4025,V06_V08,80,9,12.0,0,19,2,0.0,False,0.0,52.0,26,40.0,12.0,4,-1.0,7,2.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+4027,V08_V10,70,18,26.0,0,47,3,4.0,False,0.0,104.0,58,95.0,9.0,-7,9.0,11,-4.0,Moderate,Moderate,Moderate,Mild,Substantial improv.,Substantial progress.,Substantial progress.
+4029,V06_V08,100,5,11.0,0,22,1,0.0,False,0.0,40.0,18,38.0,2.0,5,0.0,-4,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+4030,V10_V12,100,3,11.0,0,39,2,0.0,False,0.0,50.0,36,53.0,-3.0,-2,2.0,-3,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+4033,V10_V12,90,8,3.0,0,16,2,0.0,False,0.0,15.0,8,27.0,-12.0,-2,-2.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4034,V06_V08,100,10,10.0,0,16,1,0.0,False,0.0,19.0,7,36.0,-17.0,-5,-3.0,-9,0.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+4034,V08_V10,100,5,7.0,0,7,2,0.0,False,0.0,25.0,8,19.0,6.0,2,-3.0,1,6.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+4034,V10_V12,100,7,4.0,0,8,2,6.0,False,0.0,34.0,14,25.0,9.0,2,1.0,6,0.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+4035,V06_V08,90,3,0.0,0,33,2,0.0,False,0.0,55.0,42,36.0,19.0,3,7.0,9,0.0,Mild,Mild,Moderate,Mild,No significant change.,Substantial progress.,Substantial progress.
+4035,V08_V10,90,6,7.0,0,42,2,0.0,False,0.0,43.0,29,55.0,-12.0,1,0.0,-13,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+4035,V10_V12,100,7,7.0,0,29,2,0.0,False,0.0,42.0,30,43.0,-1.0,-1,-1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4051,V10_V12,80,7,3.0,0,28,2,0.0,False,0.0,31.0,21,38.0,-7.0,2,-2.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4052,V04_V06,90,6,5.0,0,26,2,0.0,False,0.0,25.0,20,37.0,-12.0,-5,-1.0,-6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+4052,V06_V08,80,1,4.0,0,20,2,0.0,False,0.0,27.0,22,25.0,2.0,1,-1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4052,V08_V10,80,2,3.0,0,22,2,0.0,False,0.0,28.0,21,27.0,1.0,1,1.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4052,V10_V12,80,3,4.0,0,21,2,0.0,False,0.0,40.0,29,28.0,12.0,1,2.0,8,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4057,V08_V10,80,4,12.0,0,35,2,0.0,False,0.0,44.0,29,51.0,-7.0,0,-1.0,-6,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+4057,V10_V12,90,4,11.0,0,29,2,0.0,False,0.0,38.0,24,44.0,-6.0,2,-3.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+4073,V10_V12,90,17,17.0,0,9,2,9.0,False,0.0,56.0,14,52.0,4.0,1,-2.0,5,0.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,No significant change.
+4091,V04_V06,90,6,6.0,0,34,2,0.0,False,0.0,48.0,31,46.0,2.0,-1,6.0,-3,0.0,Mild,Mild,Moderate,Mild,No significant change.,Substantial progress.,Substantial improv.
+4091,V06_V08,80,5,12.0,0,31,2,0.0,False,0.0,61.0,39,48.0,13.0,-2,7.0,8,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+4091,V08_V10,80,3,19.0,0,39,2,0.0,False,0.0,77.0,49,61.0,16.0,4,2.0,10,0.0,Mild,Moderate,Moderate,Mild,Substantial progress.,No significant change.,Substantial progress.
+4091,V10_V12,70,7,21.0,0,49,3,0.0,False,0.0,65.0,44,77.0,-12.0,-2,-5.0,-5,0.0,Mild,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+4096,V04_V06,70,15,13.0,0,16,2,0.0,False,0.0,40.0,12,44.0,-4.0,2,-2.0,-4,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4096,V06_V08,80,17,11.0,0,12,2,0.0,False,0.0,69.0,38,40.0,29.0,-5,2.0,26,6.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+4096,V08_V10,80,12,13.0,0,38,2,6.0,False,0.0,71.0,42,69.0,2.0,1,-1.0,4,-2.0,Moderate,Moderate,Moderate,Moderate,No significant change.,No significant change.,No significant change.
+4096,V10_V12,80,13,12.0,0,42,2,4.0,False,0.0,69.0,33,71.0,-2.0,-4,2.0,-9,9.0,Moderate,Mild,Moderate,Mild,Substantial improv.,No significant change.,Substantial improv.
+4098,V04_V06,80,1,7.0,0,34,2,0.0,False,0.0,52.0,35,42.0,10.0,8,1.0,1,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,No significant change.,No significant change.
+4098,V06_V08,80,9,8.0,0,35,2,0.0,False,0.0,57.0,41,52.0,5.0,-3,2.0,6,0.0,Mild,Mild,Moderate,Mild,Substantial improv.,No significant change.,Substantial progress.
+4098,V08_V10,80,6,10.0,0,41,2,0.0,False,0.0,41.0,33,57.0,-16.0,-3,-6.0,-8,1.0,Mild,Mild,Moderate,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+4098,V10_V12,80,3,4.0,0,33,2,1.0,False,0.0,40.0,24,41.0,-1.0,1,3.0,-9,4.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+4099,V10_V12,80,1,4.0,0,23,2,0.0,False,0.0,40.0,32,28.0,12.0,0,3.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4101,V04_V06,90,9,6.0,0,10,2,0.0,False,0.0,29.0,19,25.0,4.0,-3,-2.0,9,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+4101,V06_V08,90,6,4.0,0,19,2,0.0,False,0.0,47.0,26,29.0,18.0,2,8.0,7,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+4101,V08_V10,80,8,12.0,0,26,2,1.0,False,0.0,21.0,7,47.0,-26.0,-2,-6.0,-19,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+4101,V10_V12,80,6,6.0,0,7,1,2.0,False,0.0,26.0,11,21.0,5.0,1,-1.0,4,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4102,V08_V10,90,5,5.0,0,27,2,0.0,False,0.0,42.0,28,37.0,5.0,-1,3.0,1,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4102,V10_V12,80,4,8.0,0,28,2,2.0,False,0.0,41.0,27,42.0,-1.0,3,-1.0,-1,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4103,V06_V08,80,6,6.0,0,15,2,0.0,False,0.0,31.0,13,27.0,4.0,4,2.0,-2,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+4103,V08_V10,80,10,8.0,0,13,2,0.0,False,0.0,27.0,12,31.0,-4.0,-3,0.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+4106,V04_V06,95,3,7.0,0,13,2,0.0,False,0.0,15.0,4,23.0,-8.0,0,1.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4106,V06_V08,90,3,8.0,0,4,2,0.0,False,0.0,12.0,4,15.0,-3.0,-2,-1.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4106,V08_V10,100,1,7.0,0,4,1,0.0,False,0.0,25.0,15,12.0,13.0,3,-1.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4106,V10_V12,80,4,6.0,0,15,2,0.0,False,0.0,28.0,16,25.0,3.0,1,0.0,1,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4108,V08_V10,80,3,4.0,0,15,2,0.0,False,0.0,37.0,24,22.0,15.0,2,4.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4108,V10_V12,80,5,8.0,0,24,2,0.0,False,0.0,34.0,19,37.0,-3.0,1,1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4112,V06_V08,100,4,5.0,0,11,1,0.0,False,0.0,51.0,16,20.0,31.0,13,13.0,5,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+4112,V08_V10,90,17,18.0,0,16,1,0.0,False,0.0,64.0,31,51.0,13.0,-2,-3.0,15,3.0,Moderate,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+4112,V10_V12,70,15,15.0,0,31,2,3.0,False,0.0,54.0,18,64.0,-10.0,-2,5.0,-13,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4113,V10_V12,80,7,5.0,0,30,2,0.0,False,0.0,44.0,28,42.0,2.0,-1,5.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4115,V10_V12,80,3,15.0,0,35,2,0.0,False,0.0,49.0,34,53.0,-4.0,0,-3.0,-1,0.0,Mild,Moderate,Moderate,Mild,No significant change.,Substantial improv.,No significant change.
+4117,V06_V08,90,6,7.0,0,9,1,0.0,False,0.0,31.0,13,22.0,9.0,2,3.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+4117,V08_V10,90,8,10.0,0,13,1,0.0,False,0.0,24.0,8,31.0,-7.0,-1,-1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+4117,V10_V12,100,7,9.0,0,8,1,0.0,False,0.0,43.0,22,24.0,19.0,1,4.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+4123,V04_V06,95,8,3.0,0,18,2,3.0,False,0.0,21.0,10,32.0,-11.0,0,-3.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+40366,V04_V06,90,5,5.0,0,25,2,0.0,False,0.0,38.0,26,35.0,3.0,1,1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+40366,V06_V08,90,6,6.0,0,26,2,0.0,False,0.0,42.0,23,38.0,4.0,-1,3.0,-3,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40366,V08_V10,90,5,9.0,0,23,2,5.0,False,0.0,33.0,23,42.0,-9.0,-4,-4.0,0,-1.0,Mild,Mild,Mild,Moderate,Substantial improv.,Substantial improv.,No significant change.
+40366,V10_V12,85,1,5.0,0,23,2,4.0,False,0.0,26.0,14,33.0,-7.0,2,4.0,-9,-4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40533,V04_V06,80,0,6.0,0,50,2,0.0,False,0.0,38.0,25,56.0,-18.0,3,-1.0,-25,5.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+40533,V10_V12,80,2,19.0,0,26,4,0.0,False,0.0,73.0,35,47.0,26.0,8,9.0,9,0.0,Mild,Moderate,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+40534,V04_V06,90,5,7.0,0,15,3,0.0,False,0.0,41.0,17,27.0,14.0,1,5.0,2,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+40538,V04_V06,90,4,6.0,0,16,2,0.0,False,0.0,26.0,8,26.0,0.0,2,1.0,-8,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40538,V10_V12,80,7,11.0,0,32,3,13.0,False,0.0,60.0,17,63.0,-3.0,9,8.0,-15,-5.0,Mild,Mild,Mild,Moderate,Substantial progress.,Substantial progress.,Substantial improv.
+40542,V04_V06,90,2,2.0,0,18,2,0.0,False,0.0,18.0,9,22.0,-4.0,1,4.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40542,V10_V12,90,1,6.0,0,7,2,5.0,False,0.0,21.0,7,19.0,2.0,3,4.0,0,-5.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+40543,V04_V06,90,1,4.0,0,19,2,0.0,False,0.0,19.0,9,24.0,-5.0,2,2.0,-10,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40543,V10_V12,90,6,15.0,0,12,2,0.0,False,0.0,33.0,21,33.0,0.0,-2,-7.0,9,0.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+40549,V08_V10,60,2,7.0,0,45,4,6.0,False,0.0,39.0,36,60.0,-21.0,-2,-4.0,-9,-6.0,Mild,Mild,Moderate,Moderate,No significant change.,Substantial improv.,Substantial improv.
+40555,V04_V06,90,1,6.0,0,8,2,3.0,False,0.0,33.0,21,18.0,15.0,1,1.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40555,V06_V08,90,2,7.0,0,21,2,3.0,False,0.0,29.0,14,33.0,-4.0,-1,3.0,-7,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40555,V08_V10,80,1,10.0,0,14,2,4.0,False,0.0,40.0,22,29.0,11.0,1,2.0,8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40555,V10_V12,90,2,12.0,0,22,2,4.0,False,0.0,39.0,22,40.0,-1.0,0,-3.0,0,2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+40585,V08_V10,90,7,5.0,0,7,1,0.0,False,0.0,43.0,17,19.0,24.0,1,5.0,10,8.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40585,V10_V12,100,8,10.0,0,17,2,8.0,False,0.0,43.0,8,43.0,0.0,-1,3.0,-9,7.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+40586,V04_V06,80,9,13.0,0,5,1,5.0,False,0.0,41.0,13,32.0,9.0,-1,-1.0,8,3.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+40586,V06_V08,100,8,12.0,0,13,1,8.0,False,0.0,36.0,12,41.0,-5.0,-2,-1.0,-1,-1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+40586,V08_V10,80,6,11.0,0,12,1,7.0,False,0.0,49.0,14,36.0,13.0,7,2.0,2,2.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,No significant change.
+40586,V10_V12,80,13,13.0,0,14,2,9.0,False,0.0,48.0,7,49.0,-1.0,1,4.0,-7,1.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+40671,V04_V06,90,8,4.0,0,17,2,0.0,False,0.0,50.0,33,29.0,21.0,0,2.0,16,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40691,V10_V12,60,8,10.0,0,26,2,5.0,False,0.0,54.0,34,49.0,5.0,-5,1.0,8,1.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial progress.
+40702,V04_V06,90,0,1.0,0,18,2,0.0,False,0.0,26.0,25,19.0,7.0,0,0.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40702,V06_V08,100,0,1.0,0,25,2,0.0,False,0.0,19.0,18,26.0,-7.0,0,0.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40702,V08_V10,100,0,1.0,0,18,2,0.0,False,0.0,7.0,5,19.0,-12.0,1,0.0,-13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+40702,V10_V12,100,1,1.0,0,5,1,0.0,False,0.0,9.0,6,7.0,2.0,0,1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+40703,V04_V06,80,6,11.0,0,18,2,1.0,False,0.0,47.0,26,36.0,11.0,-2,3.0,8,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40703,V06_V08,80,4,14.0,0,26,2,3.0,False,0.0,44.0,25,47.0,-3.0,0,-1.0,-1,-1.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+40709,V04_V06,90,1,4.0,0,15,1,0.0,False,0.0,20.0,15,20.0,0.0,1,-1.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+40709,V06_V08,100,2,3.0,0,15,1,0.0,False,0.0,29.0,24,20.0,9.0,-1,1.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40713,V04_V06,90,1,2.0,1,8,2,4.0,False,1.0,41.0,25,15.0,26.0,3,4.0,17,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+40713,V06_V08,90,4,6.0,1,25,3,6.0,False,2.0,25.0,9,41.0,-16.0,-1,0.0,-16,1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+40713,V08_V10,90,3,6.0,1,9,2,7.0,False,3.0,14.0,4,25.0,-11.0,2,-3.0,-5,-5.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial improv.
+40713,V10_V12,90,5,3.0,1,4,2,2.0,False,4.0,23.0,12,14.0,9.0,-3,1.0,8,3.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+40731,V10_V12,70,6,18.0,0,32,2,8.0,False,0.0,76.0,32,64.0,12.0,4,6.0,0,2.0,Mild,Moderate,Mild,Moderate,Substantial progress.,Substantial progress.,No significant change.
+40733,V08_V10,80,5,11.0,0,7,2,4.0,False,0.0,30.0,9,27.0,3.0,-1,0.0,2,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+40735,V10_V12,85,8,14.0,0,25,2,4.0,False,0.0,53.0,24,51.0,2.0,-3,7.0,-1,-1.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial progress.,No significant change.
+40744,V04_V06,80,7,12.0,0,17,2,6.0,False,0.0,48.0,16,42.0,6.0,3,5.0,-1,-1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+40744,V06_V08,80,10,17.0,0,16,2,5.0,False,0.0,44.0,10,48.0,-4.0,4,-2.0,-6,0.0,Mild,Moderate,Mild,Moderate,Substantial progress.,No significant change.,Substantial improv.
+40744,V08_V10,80,14,15.0,0,10,2,5.0,False,0.0,70.0,20,44.0,26.0,5,1.0,10,10.0,Moderate,Moderate,Mild,Moderate,Substantial progress.,No significant change.,Substantial progress.
+40744,V10_V12,40,19,16.0,0,20,2,15.0,False,0.0,62.0,12,70.0,-8.0,0,4.0,-8,-4.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+40754,V04_V06,80,12,5.0,0,8,2,8.0,False,0.0,38.0,11,33.0,5.0,-3,6.0,3,-1.0,Moderate,Mild,Mild,Moderate,Substantial improv.,Substantial progress.,No significant change.
+40754,V06_V08,80,9,11.0,0,11,1,7.0,False,0.0,37.0,7,38.0,-1.0,-2,4.0,-4,1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+40781,V08_V10,100,11,13.0,0,12,2,3.0,False,0.0,35.0,10,39.0,-4.0,-2,0.0,-2,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+40781,V10_V12,100,9,13.0,0,10,2,3.0,False,0.0,50.0,15,35.0,15.0,3,4.0,5,3.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+40816,V10_V12,85,15,9.0,0,49,2,0.0,False,0.0,64.0,39,73.0,-9.0,-2,3.0,-10,0.0,Moderate,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+40882,V06_V08,100,7,2.0,0,13,2,0.0,False,0.0,25.0,16,22.0,3.0,-1,1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41184,V04_V06,100,6,2.0,0,14,2,0.0,False,0.0,26.0,17,22.0,4.0,0,1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41184,V06_V08,100,6,3.0,0,17,2,0.0,False,0.0,23.0,13,26.0,-3.0,0,1.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41184,V08_V10,100,6,4.0,0,13,2,0.0,False,0.0,25.0,13,23.0,2.0,0,2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41280,V06_V08,100,5,11.0,0,18,2,0.0,False,0.0,26.0,17,34.0,-8.0,-1,-6.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+41280,V08_V10,100,4,5.0,0,17,2,0.0,False,0.0,23.0,11,26.0,-3.0,-2,5.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41280,V10_V12,100,2,10.0,0,11,1,0.0,False,0.0,24.0,7,23.0,1.0,4,-2.0,-4,3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+41281,V08_V10,90,5,10.0,0,14,2,8.0,False,0.0,25.0,8,37.0,-12.0,0,-5.0,-6,-1.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial improv.
+41281,V10_V12,90,5,5.0,0,8,2,7.0,False,0.0,26.0,4,25.0,1.0,2,7.0,-4,-4.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,Substantial improv.
+41282,V08_V10,100,1,5.0,1,8,1,0.0,False,1.0,18.0,6,14.0,4.0,2,4.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41282,V10_V12,100,3,9.0,1,6,2,0.0,False,2.0,6.0,3,18.0,-12.0,-3,-7.0,-3,1.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+41287,V08_V10,90,3,7.0,0,23,2,0.0,False,0.0,29.0,18,33.0,-4.0,1,0.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41287,V10_V12,90,4,7.0,0,18,1,0.0,False,0.0,32.0,19,29.0,3.0,1,1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41288,V08_V10,100,1,1.0,0,9,1,0.0,False,0.0,30.0,22,11.0,19.0,4,2.0,13,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+41288,V10_V12,100,5,3.0,0,22,2,0.0,False,0.0,20.0,15,30.0,-10.0,-2,-1.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41289,V08_V10,90,7,7.0,0,15,2,5.0,False,0.0,36.0,19,34.0,2.0,-2,4.0,4,-4.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+41289,V10_V12,90,5,11.0,0,19,2,1.0,False,0.0,38.0,17,36.0,2.0,1,-6.0,-2,9.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+41305,V04_V06,80,3,10.0,0,33,2,0.0,False,0.0,36.0,24,46.0,-10.0,0,-1.0,-9,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+41305,V06_V08,100,3,9.0,0,24,2,0.0,False,0.0,28.0,23,36.0,-8.0,-1,-6.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+41305,V08_V10,90,2,3.0,0,23,2,0.0,False,0.0,29.0,20,28.0,1.0,3,1.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41305,V10_V12,90,5,4.0,0,20,2,0.0,False,0.0,27.0,17,29.0,-2.0,0,1.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41356,V04_V06,100,6,8.0,0,13,2,0.0,False,0.0,19.0,7,27.0,-8.0,-3,-1.0,-6,2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+41356,V06_V08,90,3,7.0,0,7,1,2.0,False,0.0,29.0,11,19.0,10.0,5,-2.0,4,3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+41356,V08_V10,100,8,5.0,0,11,2,5.0,False,0.0,39.0,15,29.0,10.0,-1,6.0,4,1.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,No significant change.
+41382,V08_V10,80,2,9.0,0,11,0,4.0,False,0.0,42.0,25,26.0,16.0,4,2.0,14,-4.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+41382,V10_V12,80,6,11.0,0,25,2,0.0,False,0.0,38.0,7,42.0,-4.0,3,8.0,-18,3.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial improv.
+41384,V08_V10,80,4,9.0,0,13,2,0.0,False,0.0,11.0,7,26.0,-15.0,-1,-8.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+41384,V10_V12,100,3,1.0,0,7,1,0.0,False,0.0,22.0,5,11.0,11.0,4,9.0,-2,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+41399,V04_V06,90,5,2.0,0,4,1,3.0,False,0.0,12.0,2,14.0,-2.0,2,0.0,-2,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41399,V06_V08,100,7,2.0,0,2,1,1.0,False,0.0,15.0,3,12.0,3.0,-1,-1.0,1,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41399,V08_V10,90,6,1.0,0,3,1,5.0,False,0.0,21.0,3,15.0,6.0,1,3.0,0,2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+41399,V10_V12,100,7,4.0,0,3,1,7.0,False,0.0,22.0,6,21.0,1.0,-1,-2.0,3,1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+41401,V10_V12,70,2,14.0,0,38,2,13.0,False,0.0,64.0,33,67.0,-3.0,-2,4.0,-5,0.0,Mild,Moderate,Moderate,Moderate,No significant change.,No significant change.,Substantial improv.
+41410,V04_V06,100,4,1.0,0,3,0,0.0,False,0.0,11.0,7,8.0,3.0,-1,0.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+41410,V06_V08,100,3,1.0,0,7,1,0.0,False,0.0,8.0,1,11.0,-3.0,-3,0.0,-6,6.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+41437,V04_V06,90,7,7.0,0,11,1,0.0,False,0.0,25.0,8,25.0,0.0,-2,2.0,-3,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41437,V06_V08,80,5,9.0,0,8,2,3.0,False,0.0,29.0,7,25.0,4.0,4,0.0,-1,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+41437,V08_V10,80,9,9.0,0,7,2,4.0,False,0.0,39.0,14,29.0,10.0,-1,0.0,7,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+41437,V10_V12,85,8,9.0,0,14,2,8.0,False,0.0,42.0,8,39.0,3.0,5,5.0,-6,-1.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,Substantial improv.
+41438,V10_V12,70,14,19.0,0,4,1,6.0,False,0.0,47.0,1,43.0,4.0,-1,3.0,-3,5.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+41486,V04_V06,80,17,11.0,0,27,2,7.0,False,0.0,65.0,31,62.0,3.0,-1,2.0,4,-2.0,Moderate,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+41486,V06_V08,80,16,13.0,0,31,2,5.0,False,0.0,66.0,30,65.0,1.0,0,0.0,-1,2.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,No significant change.
+41486,V08_V10,90,16,13.0,0,30,2,7.0,False,0.0,61.0,22,66.0,-5.0,-3,6.0,-8,0.0,Moderate,Moderate,Mild,Moderate,Substantial improv.,Substantial progress.,Substantial improv.
+41522,V08_V10,100,4,4.0,0,14,2,0.0,False,0.0,21.0,10,22.0,-1.0,0,0.0,-4,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41568,V08_V10,90,3,0.0,0,23,2,0.0,False,0.0,20.0,15,26.0,-6.0,1,1.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41767,V06_V08,50,11,26.0,0,21,3,0.0,False,0.0,41.0,22,58.0,-17.0,-1,-17.0,1,0.0,Moderate,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+41829,V04_V06,100,2,3.0,0,30,2,5.0,False,0.0,32.0,25,40.0,-8.0,-1,0.0,-5,-2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+41829,V06_V08,100,1,3.0,0,25,2,3.0,False,0.0,19.0,11,32.0,-13.0,2,-1.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+41829,V08_V10,100,3,2.0,0,11,2,3.0,False,0.0,35.0,24,19.0,16.0,0,3.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+41829,V10_V12,100,3,5.0,0,24,2,3.0,False,0.0,38.0,19,35.0,3.0,1,7.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial improv.
+41985,V04_V06,90,5,12.0,0,20,2,4.0,False,0.0,41.0,33,41.0,0.0,-2,-11.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+42033,V10_V12,100,3,4.0,0,17,1,0.0,False,0.0,19.0,12,24.0,-5.0,-2,1.0,-5,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+42079,V04_V06,100,8,14.0,0,13,2,3.0,False,0.0,28.0,7,38.0,-10.0,1,-5.0,-6,0.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+42164,V04_V06,100,1,2.0,0,4,1,0.0,False,0.0,9.0,5,7.0,2.0,0,0.0,1,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+42346,V10_V12,90,6,13.0,0,22,2,5.0,False,0.0,26.0,2,46.0,-20.0,0,-1.0,-20,1.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+42378,V04_V06,80,6,11.0,0,16,2,0.0,False,0.0,21.0,8,33.0,-12.0,-4,0.0,-8,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+42379,V04_V06,60,17,27.0,0,27,2,6.0,False,0.0,71.0,20,77.0,-6.0,-3,-2.0,-7,6.0,Moderate,Moderate,Mild,Moderate,Substantial improv.,No significant change.,Substantial improv.
+42407,V04_V06,90,3,7.0,0,9,2,7.0,False,0.0,26.0,3,26.0,0.0,1,3.0,-6,2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+42407,V06_V08,90,4,10.0,0,3,1,9.0,False,0.0,20.0,4,26.0,-6.0,-2,-4.0,1,-1.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,No significant change.
+42407,V08_V10,90,2,6.0,0,4,1,8.0,False,0.0,25.0,6,20.0,5.0,0,3.0,2,0.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+42407,V10_V12,90,2,9.0,0,6,1,8.0,False,0.0,25.0,4,25.0,0.0,1,-2.0,-2,3.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+42415,V06_V08,100,7,14.0,0,33,2,0.0,False,0.0,21.0,10,54.0,-33.0,-4,-6.0,-23,0.0,Mild,Moderate,Moderate,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+42415,V08_V10,100,3,8.0,0,10,2,0.0,False,0.0,48.0,32,21.0,27.0,1,4.0,22,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+42415,V10_V12,80,4,12.0,0,32,2,0.0,False,0.0,47.0,25,48.0,-1.0,1,5.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+42429,V08_V10,90,5,4.0,0,16,2,2.0,False,0.0,32.0,20,27.0,5.0,-1,2.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+42429,V10_V12,90,4,6.0,0,20,2,2.0,False,0.0,47.0,32,32.0,15.0,-2,4.0,12,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+42438,V06_V08,90,3,4.0,0,16,1,0.0,False,0.0,26.0,17,23.0,3.0,0,2.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+42438,V08_V10,100,3,6.0,0,17,2,0.0,False,0.0,38.0,18,26.0,12.0,8,1.0,1,2.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+42438,V10_V12,100,11,7.0,0,18,2,2.0,False,0.0,27.0,16,38.0,-11.0,-7,-2.0,-2,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+42448,V04_V06,100,6,14.0,1,32,2,0.0,False,1.0,33.0,20,52.0,-19.0,-3,-4.0,-12,0.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+42448,V06_V08,90,3,10.0,1,20,2,0.0,False,2.0,51.0,34,33.0,18.0,2,2.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+42448,V08_V10,90,5,12.0,1,34,3,0.0,False,3.0,35.0,13,51.0,-16.0,2,2.0,-21,1.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+42448,V10_V12,100,7,14.0,1,13,2,1.0,False,4.0,37.0,20,35.0,2.0,-3,-3.0,7,1.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial progress.
+42452,V10_V12,100,4,11.0,0,28,2,0.0,False,0.0,46.0,34,43.0,3.0,-2,-1.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+42454,V04_V06,90,2,8.0,0,28,2,0.0,False,0.0,27.0,21,38.0,-11.0,-1,-3.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+42454,V06_V08,90,1,5.0,0,21,2,0.0,False,0.0,55.0,34,27.0,28.0,4,11.0,13,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+42455,V08_V10,90,4,12.0,0,19,2,0.0,False,0.0,44.0,24,35.0,9.0,5,-4.0,5,3.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial improv.,No significant change.
+42455,V10_V12,90,9,8.0,1,24,2,3.0,True,0.0,22.0,10,44.0,-22.0,-2,-4.0,-14,-2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+42710,V08_V10,90,7,5.0,0,24,2,8.0,False,0.0,23.0,6,44.0,-21.0,0,-5.0,-18,2.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial improv.
+42710,V10_V12,90,7,0.0,0,6,2,10.0,False,0.0,34.0,14,23.0,11.0,-2,1.0,8,4.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+42888,V06_V08,90,9,1.0,0,5,1,4.0,False,0.0,58.0,33,19.0,39.0,3,6.0,28,2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+42888,V08_V10,80,12,7.0,0,33,2,6.0,False,0.0,50.0,23,58.0,-8.0,-1,1.0,-10,2.0,Moderate,Mild,Moderate,Moderate,No significant change.,No significant change.,Substantial improv.
+43045,V08_V10,80,5,10.0,0,11,2,4.0,False,0.0,46.0,20,30.0,16.0,3,3.0,9,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+43045,V10_V12,80,8,13.0,0,20,2,5.0,False,0.0,63.0,35,46.0,17.0,-2,2.0,15,2.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+43046,V04_V06,80,3,7.0,0,38,3,5.0,False,0.0,38.0,22,53.0,-15.0,1,1.0,-16,-1.0,Mild,Mild,Moderate,Moderate,No significant change.,No significant change.,Substantial improv.
+43046,V10_V12,60,6,22.0,0,18,3,12.0,False,0.0,80.0,43,58.0,22.0,2,-4.0,25,-1.0,Mild,Moderate,Mild,Moderate,No significant change.,Substantial improv.,Substantial progress.
+43086,V06_V08,95,4,4.0,0,15,2,0.0,False,0.0,33.0,14,23.0,10.0,2,4.0,-1,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+43086,V08_V10,90,6,8.0,0,14,1,5.0,False,0.0,30.0,19,33.0,-3.0,-4,0.0,5,-4.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,No significant change.
+43086,V10_V12,80,2,8.0,0,19,2,1.0,False,0.0,28.0,13,30.0,-2.0,0,1.0,-6,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+50028,V04_V06,100,2,11.0,0,2,0,2.0,False,0.0,11.0,6,17.0,-6.0,-2,-10.0,4,2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+50028,V06_V08,90,0,1.0,0,6,1,4.0,False,0.0,39.0,15,11.0,28.0,5,13.0,9,1.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+50175,V04_V06,90,1,3.0,0,16,2,0.0,False,0.0,21.0,15,20.0,1.0,1,1.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50175,V06_V08,90,2,4.0,0,15,2,0.0,False,0.0,5.0,0,21.0,-16.0,-1,0.0,-15,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+50175,V08_V10,90,1,4.0,0,0,2,0.0,False,0.0,8.0,0,5.0,3.0,1,2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50175,V10_V12,90,2,6.0,0,0,2,0.0,False,0.0,33.0,14,8.0,25.0,3,8.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+50192,V04_V06,100,4,4.0,0,3,2,0.0,False,0.0,15.0,3,11.0,4.0,4,0.0,0,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+50192,V06_V08,100,8,4.0,1,3,2,0.0,True,0.0,31.0,17,15.0,16.0,0,2.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+50192,V08_V10,100,8,6.0,1,17,2,0.0,False,1.0,45.0,20,31.0,14.0,1,4.0,3,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50192,V10_V12,70,9,10.0,1,20,1,6.0,False,2.0,43.0,12,45.0,-2.0,3,4.0,-8,-1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+50319,V08_V10,90,2,11.0,0,11,1,0.0,False,0.0,16.0,7,24.0,-8.0,-2,-2.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+50319,V10_V12,90,0,9.0,0,7,2,0.0,False,0.0,27.0,9,16.0,11.0,5,4.0,2,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+50509,V04_V06,100,6,1.0,0,19,2,0.0,False,0.0,41.0,33,26.0,15.0,0,1.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+50509,V06_V08,100,6,2.0,0,33,2,0.0,False,0.0,37.0,24,41.0,-4.0,3,2.0,-9,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+50509,V08_V10,100,9,4.0,0,24,2,0.0,False,0.0,43.0,28,37.0,6.0,0,2.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50621,V06_V08,80,9,11.0,0,11,2,4.0,False,0.0,54.0,15,35.0,19.0,5,8.0,4,2.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+50746,V06_V08,60,8,2.0,1,17,2,6.0,False,1.0,39.0,15,33.0,6.0,3,4.0,-2,1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+50746,V08_V10,70,11,6.0,1,15,3,7.0,False,2.0,30.0,19,39.0,-9.0,-8,-2.0,4,-3.0,Moderate,Mild,Mild,Moderate,Substantial improv.,No significant change.,No significant change.
+50746,V10_V12,80,3,4.0,1,19,2,4.0,False,3.0,32.0,18,30.0,2.0,4,2.0,-1,-3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+50860,V04_V06,90,11,3.0,0,30,2,0.0,False,0.0,40.0,27,44.0,-4.0,-3,2.0,-3,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+50860,V06_V08,90,8,5.0,0,27,2,0.0,False,0.0,47.0,36,40.0,7.0,-3,1.0,9,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+50860,V08_V10,95,5,6.0,0,36,2,0.0,False,0.0,42.0,30,47.0,-5.0,1,0.0,-6,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+50860,V10_V12,90,6,6.0,0,30,2,0.0,False,0.0,44.0,31,42.0,2.0,2,-1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50901,V04_V06,90,6,4.0,0,27,2,3.0,False,0.0,48.0,32,40.0,8.0,1,2.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+50901,V06_V08,90,7,6.0,0,32,2,3.0,False,0.0,43.0,29,48.0,-5.0,-3,0.0,-3,1.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+50901,V08_V10,90,4,6.0,0,29,2,4.0,False,0.0,36.0,19,43.0,-7.0,1,2.0,-10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+50901,V10_V12,90,5,8.0,0,19,2,4.0,False,0.0,54.0,35,36.0,18.0,2,4.0,16,-4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+51186,V04_V06,100,6,2.0,0,19,2,7.0,False,0.0,44.0,25,34.0,10.0,2,1.0,6,1.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+51186,V06_V08,80,8,3.0,0,25,2,8.0,False,0.0,46.0,24,44.0,2.0,2,6.0,-1,-5.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,No significant change.
+51186,V08_V10,85,10,9.0,0,24,2,3.0,False,0.0,56.0,36,46.0,10.0,-2,-4.0,12,4.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+51252,V04_V06,90,11,3.0,0,14,2,3.0,False,0.0,37.0,15,31.0,6.0,6,2.0,1,-3.0,Moderate,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+51252,V06_V08,90,17,5.0,0,15,2,0.0,False,0.0,27.0,5,37.0,-10.0,-4,-3.0,-10,7.0,Moderate,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+51252,V08_V10,90,13,2.0,0,5,2,7.0,False,0.0,25.0,6,27.0,-2.0,1,3.0,1,-7.0,Moderate,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+51440,V04_V06,100,3,1.0,0,4,1,0.0,False,0.0,6.0,2,8.0,-2.0,-2,2.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+51440,V06_V08,100,1,3.0,0,2,1,0.0,False,0.0,21.0,17,6.0,15.0,0,-2.0,15,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+51440,V08_V10,100,1,1.0,0,17,1,2.0,False,0.0,8.0,4,21.0,-13.0,1,1.0,-13,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+51440,V10_V12,90,2,2.0,0,4,1,0.0,False,0.0,12.0,8,8.0,4.0,0,0.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+51518,V06_V08,100,8,3.0,0,2,1,0.0,False,0.0,13.0,5,13.0,0.0,-2,-1.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+51551,V04_V06,100,7,4.0,1,15,2,3.0,False,1.0,10.0,0,29.0,-19.0,-4,-1.0,-15,1.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+51551,V06_V08,100,3,3.0,1,0,0,4.0,False,2.0,23.0,4,10.0,13.0,5,6.0,4,-2.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+51551,V08_V10,95,8,9.0,1,4,2,2.0,False,3.0,30.0,7,23.0,7.0,0,-2.0,3,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+51632,V04_V06,90,4,10.0,0,43,2,2.0,False,0.0,52.0,36,59.0,-7.0,-1,1.0,-7,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+51632,V06_V08,90,3,11.0,0,36,3,2.0,False,0.0,49.0,31,52.0,-3.0,2,2.0,-5,-2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+51632,V08_V10,90,5,13.0,0,31,2,0.0,False,0.0,44.0,16,49.0,-5.0,7,2.0,-15,1.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+52062,V04_V06,80,10,17.0,0,24,2,5.0,False,0.0,46.0,18,56.0,-10.0,1,-4.0,-6,-1.0,Mild,Moderate,Mild,Moderate,No significant change.,Substantial improv.,Substantial improv.
+52062,V06_V08,80,11,13.0,0,18,2,4.0,False,0.0,47.0,15,46.0,1.0,0,3.0,-3,1.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+52062,V08_V10,80,11,16.0,1,15,1,5.0,True,0.0,70.0,27,47.0,23.0,5,6.0,12,0.0,Moderate,Moderate,Mild,Moderate,Substantial progress.,Substantial progress.,Substantial progress.
+52062,V10_V12,80,16,22.0,1,27,2,5.0,False,1.0,88.0,37,70.0,18.0,2,5.0,10,1.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+52128,V08_V10,100,5,3.0,0,7,2,3.0,False,0.0,35.0,20,18.0,17.0,0,3.0,13,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+52128,V10_V12,90,5,6.0,0,20,2,4.0,False,0.0,29.0,14,35.0,-6.0,-1,-3.0,-6,4.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+52530,V04_V06,90,8,6.0,0,8,1,0.0,False,0.0,19.0,7,22.0,-3.0,0,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+52530,V06_V08,90,8,4.0,0,7,1,0.0,False,0.0,31.0,16,19.0,12.0,1,1.0,9,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+52530,V08_V10,100,9,5.0,0,16,1,1.0,False,0.0,13.0,5,31.0,-18.0,-4,-4.0,-11,1.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+53339,V04_V06,80,7,7.0,0,18,1,2.0,False,0.0,38.0,22,34.0,4.0,1,1.0,4,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+53339,V06_V08,80,8,8.0,0,22,2,0.0,False,0.0,30.0,13,38.0,-8.0,1,-2.0,-9,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+53339,V08_V10,100,9,6.0,0,13,2,2.0,False,0.0,32.0,7,30.0,2.0,0,4.0,-6,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+53339,V10_V12,90,9,10.0,0,7,2,6.0,False,0.0,30.0,15,32.0,-2.0,-2,-8.0,8,0.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial progress.
+53595,V04_V06,90,11,9.0,0,14,2,2.0,False,0.0,28.0,13,36.0,-8.0,-4,-1.0,-1,-2.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+53595,V06_V08,100,7,8.0,0,13,2,0.0,False,0.0,33.0,11,28.0,5.0,3,-1.0,-2,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+53600,V04_V06,90,9,7.0,1,32,2,5.0,True,0.0,34.0,13,53.0,-19.0,2,3.0,-19,-5.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+53600,V06_V08,80,11,10.0,1,13,2,0.0,False,1.0,58.0,29,34.0,24.0,0,-1.0,16,9.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+53988,V04_V06,80,3,6.0,0,22,2,3.0,False,0.0,48.0,32,34.0,14.0,4,1.0,10,-1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+53988,V06_V08,80,7,7.0,0,32,2,2.0,False,0.0,54.0,28,48.0,6.0,8,2.0,-4,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+53988,V08_V10,80,15,9.0,0,28,2,2.0,False,0.0,42.0,26,54.0,-12.0,-9,-1.0,-2,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+54144,V06_V08,90,10,7.0,0,4,1,0.0,False,0.0,33.0,12,21.0,12.0,2,2.0,8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+54144,V08_V10,90,12,9.0,0,12,1,0.0,False,0.0,28.0,6,33.0,-5.0,-1,2.0,-6,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+54144,V10_V12,90,11,11.0,0,6,1,0.0,False,0.0,25.0,2,28.0,-3.0,0,1.0,-4,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+54161,V04_V06,80,9,10.0,0,13,1,4.0,False,0.0,44.0,11,36.0,8.0,-3,5.0,-2,8.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+54161,V06_V08,70,6,15.0,0,11,1,12.0,False,0.0,34.0,4,44.0,-10.0,3,-5.0,-7,-1.0,Mild,Moderate,Mild,Moderate,No significant change.,Substantial improv.,Substantial improv.
+54161,V08_V10,90,9,10.0,0,4,1,11.0,False,0.0,25.0,7,34.0,-9.0,0,-7.0,3,-5.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,No significant change.
+54161,V10_V12,95,9,3.0,1,7,1,6.0,True,0.0,21.0,7,25.0,-4.0,0,2.0,0,-6.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+54197,V06_V08,80,11,10.0,0,14,2,3.0,False,0.0,37.0,14,38.0,-1.0,-1,-3.0,0,3.0,Moderate,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+54265,V06_V08,90,5,12.0,0,16,2,0.0,False,0.0,33.0,15,33.0,0.0,0,1.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+55124,V04_V06,90,2,2.0,0,18,1,0.0,False,0.0,20.0,14,22.0,-2.0,0,2.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+55124,V06_V08,90,2,4.0,0,14,1,0.0,False,0.0,23.0,17,20.0,3.0,0,0.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+55395,V04_V06,80,5,6.0,0,21,2,6.0,False,0.0,40.0,13,38.0,2.0,7,6.0,-8,-3.0,Mild,Mild,Mild,Moderate,Substantial progress.,Substantial progress.,Substantial improv.
+55441,V04_V06,100,10,9.0,0,22,2,0.0,False,0.0,40.0,22,41.0,-1.0,-3,1.0,0,1.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+55441,V06_V08,90,7,10.0,0,22,2,1.0,False,0.0,33.0,17,40.0,-7.0,0,-1.0,-5,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+56435,V04_V06,80,10,15.0,0,18,2,2.0,False,0.0,45.0,22,45.0,0.0,0,-5.0,4,1.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+56435,V06_V08,90,10,10.0,0,22,2,3.0,False,0.0,47.0,22,45.0,2.0,-1,4.0,0,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+56744,V04_V06,90,4,1.0,0,18,2,2.0,False,0.0,20.0,15,25.0,-5.0,0,0.0,-3,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+56744,V06_V08,100,4,1.0,0,15,1,0.0,False,0.0,30.0,20,20.0,10.0,0,1.0,5,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+56744,V08_V10,80,4,2.0,0,20,2,4.0,False,0.0,27.0,14,30.0,-3.0,1,1.0,-6,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+56744,V10_V12,90,5,3.0,0,14,2,5.0,False,0.0,42.0,26,27.0,15.0,0,1.0,12,2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+57090,V04_V06,90,14,7.0,0,8,2,0.0,False,0.0,37.0,15,29.0,8.0,0,1.0,7,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+57127,V10_V12,90,6,6.0,0,22,2,0.0,False,0.0,25.0,18,34.0,-9.0,-3,-2.0,-4,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+57813,V10_V12,90,18,14.0,1,21,2,8.0,False,1.0,47.0,21,61.0,-14.0,-5,-1.0,0,-8.0,Moderate,Moderate,Mild,Moderate,Substantial improv.,No significant change.,No significant change.
+57880,V08_V10,90,1,8.0,0,25,2,10.0,False,0.0,40.0,12,44.0,-4.0,4,6.0,-13,-1.0,Mild,Mild,Mild,Moderate,Substantial progress.,Substantial progress.,Substantial improv.
+58030,V04_V06,80,9,2.0,0,7,2,0.0,False,0.0,17.0,6,18.0,-1.0,-5,5.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+58141,V08_V10,70,19,21.0,1,55,2,5.0,True,0.0,84.0,43,100.0,-16.0,-6,3.0,-12,-1.0,Moderate,Moderate,Moderate,Moderate,Substantial improv.,No significant change.,Substantial improv.
+58141,V10_V12,50,13,24.0,1,43,3,4.0,False,1.0,104.0,47,84.0,20.0,5,4.0,4,7.0,Moderate,Moderate,Moderate,Mild,Substantial progress.,No significant change.,No significant change.
+58454,V04_V06,90,4,4.0,0,16,2,3.0,False,0.0,25.0,5,27.0,-2.0,2,7.0,-11,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial improv.
+58510,V04_V06,80,10,13.0,0,23,2,5.0,False,0.0,61.0,28,51.0,10.0,2,1.0,5,2.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,No significant change.
+58510,V10_V12,90,6,10.0,0,36,2,4.0,False,0.0,50.0,21,56.0,-6.0,2,5.0,-15,2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+58671,V04_V06,80,11,3.0,0,22,2,3.0,False,0.0,54.0,25,39.0,15.0,4,6.0,3,2.0,Moderate,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+59121,V10_V12,90,3,9.0,0,19,2,3.0,False,0.0,61.0,36,34.0,27.0,5,4.0,17,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+70188,V04_V06,90,8,10.0,0,22,2,2.0,False,0.0,31.0,14,42.0,-11.0,3,-4.0,-8,-2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+70188,V10_V12,85,13,5.0,0,30,2,5.0,False,0.0,36.0,12,53.0,-17.0,-2,1.0,-18,2.0,Moderate,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+70463,V04_V06,90,15,18.0,1,18,2,5.0,True,0.0,62.0,26,56.0,6.0,-3,2.0,8,-1.0,Moderate,Moderate,Mild,Moderate,Substantial improv.,No significant change.,Substantial progress.
+70818,V04_V06,90,7,13.0,0,27,2,0.0,False,0.0,58.0,29,47.0,11.0,2,3.0,2,4.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+70818,V06_V08,90,9,16.0,0,29,2,4.0,False,0.0,77.0,44,58.0,19.0,-1,9.0,15,-4.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+71189,V04_V06,90,4,4.0,0,21,2,0.0,False,0.0,32.0,23,29.0,3.0,1,-1.0,2,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+71189,V10_V12,90,5,9.0,0,31,2,3.0,False,0.0,52.0,34,48.0,4.0,2,1.0,3,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+71809,V04_V06,80,8,13.0,0,26,2,7.0,False,0.0,53.0,33,54.0,-1.0,-3,-4.0,7,-1.0,Mild,Moderate,Mild,Moderate,Substantial improv.,Substantial improv.,Substantial progress.
+71809,V06_V08,70,5,9.0,0,33,2,6.0,False,0.0,49.0,21,53.0,-4.0,0,6.0,-12,2.0,Mild,Mild,Moderate,Moderate,No significant change.,Substantial progress.,Substantial improv.
+71809,V08_V10,80,5,15.0,1,21,2,8.0,True,0.0,44.0,16,49.0,-5.0,4,-5.0,-5,1.0,Mild,Moderate,Mild,Moderate,Substantial progress.,Substantial improv.,Substantial improv.
+71809,V10_V12,70,9,10.0,1,16,2,9.0,False,1.0,58.0,30,44.0,14.0,-1,5.0,14,-4.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+71978,V08_V10,100,6,1.0,0,9,2,1.0,False,0.0,16.0,6,17.0,-1.0,1,0.0,-3,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+71978,V10_V12,95,7,1.0,0,6,1,2.0,False,0.0,15.0,9,16.0,-1.0,-3,1.0,3,-2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+72826,V10_V12,95,6,7.0,0,32,2,6.0,False,0.0,49.0,23,51.0,-2.0,1,4.0,-9,2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+73887,V08_V10,95,9,7.0,0,18,1,0.0,False,0.0,35.0,22,34.0,1.0,0,-3.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+73887,V10_V12,100,9,4.0,0,22,2,0.0,False,0.0,22.0,6,35.0,-13.0,-2,0.0,-16,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+73935,V04_V06,90,7,7.0,0,8,1,9.0,False,0.0,24.0,11,31.0,-7.0,-3,1.0,3,-8.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,No significant change.
+73935,V10_V12,100,6,14.0,1,16,2,3.0,False,1.0,36.0,13,39.0,-3.0,1,1.0,-3,-2.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+74067,V04_V06,80,6,2.0,0,16,2,1.0,False,0.0,28.0,20,25.0,3.0,-4,1.0,4,2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+74067,V06_V08,90,2,3.0,0,20,2,3.0,False,0.0,38.0,26,28.0,10.0,4,3.0,6,-3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial progress.
+74067,V08_V10,95,6,6.0,0,26,2,0.0,False,0.0,43.0,22,38.0,5.0,-1,3.0,-4,7.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+75409,V08_V10,85,7,5.0,0,25,2,0.0,False,0.0,51.0,33,37.0,14.0,1,2.0,8,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+75409,V10_V12,80,8,7.0,0,33,2,3.0,False,0.0,50.0,34,51.0,-1.0,5,-7.0,1,0.0,Mild,Mild,Moderate,Mild,Substantial progress.,Substantial improv.,No significant change.
+75480,V08_V10,90,11,5.0,0,26,2,3.0,False,0.0,49.0,20,45.0,4.0,3,7.0,-6,0.0,Moderate,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial improv.
+75480,V10_V12,90,14,12.0,0,20,2,3.0,False,0.0,32.0,17,49.0,-17.0,-6,-5.0,-3,-3.0,Moderate,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+75484,V08_V10,90,3,5.0,0,4,2,4.0,False,0.0,34.0,16,16.0,18.0,2,3.0,12,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+75484,V10_V12,95,5,8.0,0,16,2,5.0,False,0.0,34.0,19,34.0,0.0,0,-5.0,3,2.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,No significant change.
+75505,V04_V06,100,10,8.0,0,7,2,5.0,False,0.0,20.0,6,30.0,-10.0,-9,-8.0,-1,8.0,Mild,Mild,Mild,Moderate,Substantial improv.,Substantial improv.,No significant change.
+75505,V06_V08,100,1,0.0,0,6,2,13.0,False,0.0,37.0,6,20.0,17.0,12,9.0,0,-4.0,Mild,Mild,Mild,Moderate,Substantial progress.,Substantial progress.,No significant change.
+75505,V08_V10,100,13,9.0,0,6,2,9.0,False,0.0,63.0,32,37.0,26.0,3,3.0,26,-6.0,Moderate,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+75505,V10_V12,90,16,12.0,1,32,2,3.0,True,0.0,66.0,24,63.0,3.0,-8,8.0,-8,11.0,Moderate,Mild,Mild,Mild,Substantial improv.,Substantial progress.,Substantial improv.
+75524,V04_V06,100,10,2.0,0,5,1,0.0,False,0.0,36.0,22,17.0,19.0,0,2.0,17,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+75524,V06_V08,95,10,4.0,0,22,2,0.0,False,0.0,29.0,21,36.0,-7.0,-5,-2.0,-1,1.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+75524,V08_V10,90,5,2.0,0,21,2,1.0,False,0.0,40.0,17,29.0,11.0,6,5.0,-4,4.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+75524,V10_V12,100,11,7.0,0,17,2,5.0,False,0.0,44.0,27,40.0,4.0,-1,0.0,10,-5.0,Moderate,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+75562,V08_V10,100,8,9.0,0,15,1,1.0,False,0.0,40.0,18,33.0,7.0,2,2.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+75562,V10_V12,90,10,11.0,0,18,1,1.0,False,0.0,57.0,21,40.0,17.0,3,5.0,3,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+100002,V06_V08,95,6,3.0,0,21,2,0.0,False,0.0,45.0,30,30.0,15.0,3,3.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100006,V04_V06,95,8,9.0,0,17,2,2.0,False,0.0,34.0,9,36.0,-2.0,4,-4.0,-8,6.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial improv.,Substantial improv.
+100007,V04_V06,95,2,7.0,0,23,2,0.0,False,0.0,19.0,16,32.0,-13.0,0,-7.0,-7,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+100007,V06_V08,90,2,0.0,0,16,2,1.0,False,0.0,37.0,28,19.0,18.0,1,6.0,12,-1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+100007,V08_V10,80,3,6.0,0,28,2,0.0,False,0.0,27.0,19,37.0,-10.0,0,-2.0,-9,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+100012,V04_V06,95,6,5.0,0,14,1,0.0,False,0.0,33.0,17,25.0,8.0,1,4.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+100012,V06_V08,95,7,9.0,0,17,1,0.0,False,0.0,52.0,25,33.0,19.0,3,2.0,8,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100012,V08_V10,70,10,11.0,0,25,2,6.0,False,0.0,27.0,9,52.0,-25.0,-5,-2.0,-16,-2.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial improv.
+100017,V06_V08,95,2,4.0,0,8,1,0.0,False,0.0,19.0,15,14.0,5.0,-1,-1.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100017,V08_V10,100,1,3.0,0,15,2,0.0,False,0.0,38.0,28,19.0,19.0,2,2.0,13,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100018,V04_V06,90,7,17.0,0,17,2,3.0,False,0.0,59.0,31,44.0,15.0,0,1.0,14,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100018,V06_V08,85,7,18.0,0,31,2,3.0,False,0.0,76.0,45,59.0,17.0,0,0.0,14,3.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100018,V08_V10,90,7,18.0,0,45,2,6.0,False,0.0,92.0,52,76.0,16.0,1,9.0,7,-1.0,Mild,Moderate,Moderate,Moderate,No significant change.,Substantial progress.,Substantial progress.
+100267,V08_V10,90,8,16.0,0,44,2,4.0,False,0.0,90.0,49,72.0,18.0,4,6.0,5,3.0,Mild,Moderate,Moderate,Mild,Substantial progress.,Substantial progress.,No significant change.
+100842,V06_V08,100,3,4.0,0,11,2,0.0,False,0.0,56.0,25,18.0,38.0,12,12.0,14,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+100842,V08_V10,90,15,16.0,0,25,2,0.0,False,0.0,25.0,9,56.0,-31.0,-5,-10.0,-16,0.0,Moderate,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+100878,V08_V10,80,4,10.0,0,26,2,0.0,False,0.0,41.0,25,40.0,1.0,-1,-1.0,-1,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+100889,V06_V08,95,0,3.0,0,13,2,0.0,False,0.0,20.0,19,16.0,4.0,0,-2.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+100891,V06_V08,90,9,9.0,0,14,2,3.0,False,0.0,41.0,19,35.0,6.0,0,4.0,5,-3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+100891,V08_V10,90,9,13.0,0,19,2,0.0,False,0.0,24.0,8,41.0,-17.0,-3,-6.0,-11,3.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+100911,V06_V08,85,2,10.0,0,22,2,0.0,False,0.0,54.0,34,34.0,20.0,2,6.0,12,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+100952,V06_V08,95,4,5.0,0,38,2,5.0,False,0.0,65.0,49,52.0,13.0,1,0.0,11,1.0,Mild,Mild,Moderate,Moderate,No significant change.,No significant change.,Substantial progress.
+100952,V08_V10,95,5,5.0,0,49,2,6.0,False,0.0,44.0,31,65.0,-21.0,0,0.0,-18,-3.0,Mild,Mild,Moderate,Moderate,No significant change.,No significant change.,Substantial improv.
+100972,V08_V10,100,4,8.0,1,13,2,2.0,False,1.0,33.0,19,27.0,6.0,3,-2.0,6,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+101018,V04_V06,95,6,5.0,0,14,2,2.0,False,0.0,23.0,11,27.0,-4.0,2,-1.0,-3,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101025,V04_V06,80,7,11.0,0,44,2,0.0,False,0.0,37.0,19,62.0,-25.0,0,0.0,-25,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+101025,V06_V08,80,7,11.0,0,19,2,0.0,False,0.0,61.0,34,37.0,24.0,3,4.0,15,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+101025,V08_V10,70,10,15.0,0,34,2,2.0,False,0.0,43.0,21,61.0,-18.0,-1,-2.0,-13,-2.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+101038,V04_V06,90,4,11.0,0,34,2,0.0,False,0.0,50.0,31,49.0,1.0,0,-1.0,-3,5.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+101038,V06_V08,95,4,10.0,0,31,2,5.0,False,0.0,51.0,24,50.0,1.0,6,-1.0,-7,3.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,Substantial improv.
+101038,V08_V10,95,10,9.0,0,24,2,8.0,False,0.0,51.0,34,51.0,0.0,-4,0.0,10,-6.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial progress.
+101047,V06_V08,95,3,4.0,0,22,2,2.0,False,0.0,30.0,23,31.0,-1.0,1,-1.0,1,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101047,V08_V10,90,4,3.0,0,23,2,0.0,False,0.0,43.0,28,30.0,13.0,4,4.0,5,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+101124,V08_V10,95,6,3.0,0,12,2,0.0,False,0.0,34.0,15,21.0,13.0,-1,11.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+101146,V04_V06,85,11,14.0,0,9,1,3.0,False,0.0,31.0,12,37.0,-6.0,-4,-2.0,3,-3.0,Moderate,Moderate,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+101146,V06_V08,85,7,12.0,0,12,2,0.0,False,0.0,40.0,15,31.0,9.0,5,1.0,3,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+101146,V08_V10,90,12,13.0,0,15,2,0.0,False,0.0,40.0,17,40.0,0.0,-3,1.0,2,0.0,Moderate,Moderate,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+101174,V04_V06,100,4,11.0,0,16,1,0.0,False,0.0,17.0,13,31.0,-14.0,-3,-10.0,-3,2.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+101174,V06_V08,100,1,1.0,0,13,2,2.0,False,0.0,11.0,7,17.0,-6.0,1,1.0,-6,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101174,V08_V10,100,2,2.0,0,7,1,0.0,False,0.0,15.0,5,11.0,4.0,0,3.0,-2,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101175,V06_V08,75,6,12.0,0,48,3,0.0,False,0.0,72.0,41,66.0,6.0,3,10.0,-7,0.0,Mild,Mild,Moderate,Mild,No significant change.,Substantial progress.,Substantial improv.
+101175,V08_V10,75,9,22.0,0,41,2,0.0,False,0.0,59.0,38,72.0,-13.0,-1,-9.0,-3,0.0,Mild,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+101179,V04_V06,95,3,8.0,0,25,2,11.0,False,0.0,41.0,14,47.0,-6.0,2,5.0,-11,-2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+101179,V06_V08,80,5,13.0,0,14,2,9.0,False,0.0,59.0,23,41.0,18.0,1,4.0,9,4.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+101179,V08_V10,80,6,17.0,0,23,2,13.0,False,0.0,53.0,17,59.0,-6.0,3,0.0,-6,-3.0,Mild,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+101186,V08_V10,75,8,25.0,0,27,2,0.0,False,0.0,58.0,22,60.0,-2.0,2,-2.0,-5,3.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101187,V04_V06,95,2,0.0,0,7,1,0.0,False,0.0,13.0,6,9.0,4.0,3,2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101187,V06_V08,95,5,2.0,0,6,1,0.0,False,0.0,17.0,9,13.0,4.0,1,0.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101187,V08_V10,90,6,2.0,0,9,1,0.0,False,0.0,19.0,4,17.0,2.0,3,1.0,-5,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101279,V06_V08,100,4,10.0,0,19,2,0.0,False,0.0,23.0,13,33.0,-10.0,-2,-2.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101279,V08_V10,100,2,8.0,0,13,2,0.0,False,0.0,34.0,26,23.0,11.0,1,-3.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+101295,V08_V10,95,1,3.0,0,23,2,0.0,False,0.0,11.0,10,27.0,-16.0,-1,-2.0,-13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101476,V06_V08,95,0,9.0,0,24,2,0.0,False,0.0,32.0,23,33.0,-1.0,0,-2.0,-1,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101476,V08_V10,95,0,7.0,0,23,2,2.0,False,0.0,67.0,46,32.0,35.0,3,7.0,23,2.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+101479,V04_V06,100,3,3.0,0,14,2,0.0,False,0.0,15.0,12,20.0,-5.0,-3,0.0,-2,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+101479,V06_V08,100,0,3.0,0,12,2,0.0,False,0.0,17.0,15,15.0,2.0,0,-2.0,3,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101479,V08_V10,100,0,1.0,0,15,2,1.0,False,0.0,16.0,14,17.0,-1.0,0,0.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101555,V06_V08,95,12,4.0,0,34,2,0.0,False,0.0,46.0,31,50.0,-4.0,-2,1.0,-3,0.0,Moderate,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+101555,V08_V10,90,10,5.0,0,31,2,0.0,False,0.0,45.0,38,46.0,-1.0,-6,-2.0,7,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+101557,V04_V06,90,9,14.0,0,32,2,0.0,False,0.0,33.0,18,55.0,-22.0,-3,-7.0,-14,2.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+101557,V06_V08,95,6,7.0,0,18,2,2.0,False,0.0,41.0,28,33.0,8.0,-4,0.0,10,2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+101557,V08_V10,95,2,7.0,0,28,2,4.0,False,0.0,40.0,20,41.0,-1.0,3,4.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101675,V04_V06,90,6,9.0,0,22,2,0.0,False,0.0,34.0,22,37.0,-3.0,-1,-2.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101742,V04_V06,90,5,8.0,0,22,2,1.0,False,0.0,27.0,15,36.0,-9.0,3,-4.0,-7,-1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+101742,V06_V08,100,8,4.0,0,15,2,0.0,False,0.0,41.0,20,27.0,14.0,3,4.0,5,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101742,V08_V10,95,11,8.0,0,20,2,2.0,False,0.0,58.0,32,41.0,17.0,1,3.0,12,1.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+101744,V04_V06,100,7,6.0,0,24,2,1.0,False,0.0,64.0,28,38.0,26.0,3,18.0,4,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+101748,V04_V06,95,5,3.0,0,6,1,1.0,False,0.0,24.0,18,15.0,9.0,0,-2.0,12,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+101748,V06_V08,100,5,1.0,0,18,2,0.0,False,0.0,21.0,12,24.0,-3.0,1,2.0,-6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101748,V08_V10,100,6,3.0,0,12,2,0.0,False,0.0,23.0,14,21.0,2.0,-1,-1.0,2,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101751,V04_V06,95,5,8.0,0,17,1,2.0,False,0.0,33.0,17,32.0,1.0,-1,1.0,0,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101751,V06_V08,95,4,9.0,0,17,1,3.0,False,0.0,35.0,12,33.0,2.0,2,2.0,-5,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+101751,V08_V10,90,6,11.0,0,12,1,6.0,False,0.0,28.0,10,35.0,-7.0,-2,-4.0,-2,1.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,No significant change.
+101755,V04_V06,90,1,2.0,0,21,2,0.0,False,0.0,24.0,18,24.0,0.0,4,-1.0,-3,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+101799,V06_V08,95,6,9.0,0,19,2,0.0,False,0.0,29.0,21,34.0,-5.0,-4,-3.0,2,0.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,No significant change.
+101799,V08_V10,95,2,6.0,0,21,1,0.0,False,0.0,31.0,26,29.0,2.0,-1,-2.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101841,V04_V06,90,8,4.0,0,22,2,2.0,False,0.0,44.0,25,36.0,8.0,2,1.0,3,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+101841,V06_V08,85,10,5.0,0,25,2,4.0,False,0.0,50.0,32,44.0,6.0,2,1.0,7,-4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+101841,V08_V10,85,12,6.0,0,32,2,0.0,False,0.0,49.0,20,50.0,-1.0,-1,3.0,-12,9.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+102027,V04_V06,95,6,3.0,0,23,2,0.0,False,0.0,18.0,14,32.0,-14.0,-4,-1.0,-9,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+102027,V06_V08,90,2,2.0,0,14,2,0.0,False,0.0,14.0,5,18.0,-4.0,5,0.0,-9,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+102027,V08_V10,90,7,2.0,0,5,1,0.0,False,0.0,23.0,5,14.0,9.0,1,1.0,0,7.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+102053,V04_V06,95,3,6.0,0,15,2,0.0,False,0.0,30.0,16,24.0,6.0,1,-1.0,1,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+102053,V06_V08,95,4,5.0,0,16,1,5.0,False,0.0,20.0,15,30.0,-10.0,-2,-2.0,-1,-5.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+102054,V08_V10,100,2,1.0,0,11,2,0.0,False,0.0,30.0,24,14.0,16.0,2,1.0,13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+102068,V04_V06,90,12,12.0,0,28,2,0.0,False,0.0,39.0,18,52.0,-13.0,-4,1.0,-10,0.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+102078,V04_V06,90,6,1.0,0,7,1,0.0,False,0.0,20.0,8,14.0,6.0,2,3.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+102078,V06_V08,90,8,4.0,0,8,1,0.0,False,0.0,24.0,14,20.0,4.0,-2,0.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+102078,V08_V10,95,6,4.0,0,14,2,0.0,False,0.0,19.0,11,24.0,-5.0,-1,-1.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+102293,V06_V08,100,3,8.0,0,15,2,0.0,False,0.0,25.0,16,26.0,-1.0,1,-3.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+102293,V08_V10,100,4,5.0,0,16,2,0.0,False,0.0,40.0,24,25.0,15.0,3,4.0,8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+102305,V04_V06,100,7,3.0,0,38,2,2.0,False,0.0,32.0,22,50.0,-18.0,1,-1.0,-16,-2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+102305,V06_V08,100,8,2.0,0,22,2,0.0,False,0.0,55.0,44,32.0,23.0,0,1.0,22,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+102308,V04_V06,85,17,19.0,0,35,2,8.0,False,0.0,86.0,38,79.0,7.0,0,4.0,3,0.0,Moderate,Moderate,Moderate,Moderate,No significant change.,No significant change.,No significant change.
+102308,V06_V08,85,17,23.0,0,38,2,8.0,False,0.0,44.0,15,86.0,-42.0,-4,-7.0,-23,-8.0,Moderate,Moderate,Moderate,Moderate,Substantial improv.,Substantial improv.,Substantial improv.
+102321,V04_V06,100,8,4.0,0,8,1,0.0,False,0.0,30.0,10,20.0,10.0,5,3.0,2,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+102321,V06_V08,100,13,7.0,0,10,2,0.0,False,0.0,43.0,26,30.0,13.0,-6,2.0,16,1.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+102417,V04_V06,90,6,5.0,0,15,2,4.0,False,0.0,48.0,27,30.0,18.0,-2,2.0,12,6.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+102419,V04_V06,85,5,7.0,0,6,1,9.0,False,0.0,27.0,14,27.0,0.0,0,-5.0,8,-3.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial progress.
+102419,V06_V08,95,5,2.0,0,14,2,6.0,False,0.0,35.0,13,27.0,8.0,0,9.0,-1,0.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial progress.,No significant change.
+102420,V06_V08,90,10,23.0,0,30,2,0.0,False,0.0,60.0,36,63.0,-3.0,-3,-6.0,6,0.0,Mild,Moderate,Mild,Mild,Substantial improv.,Substantial improv.,Substantial progress.
+102479,V04_V06,95,6,3.0,0,33,2,0.0,False,0.0,30.0,21,42.0,-12.0,0,0.0,-12,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+102479,V06_V08,95,6,3.0,0,21,2,0.0,False,0.0,23.0,19,30.0,-7.0,-6,-1.0,-2,2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+102484,V08_V10,100,1,1.0,0,38,2,0.0,False,0.0,41.0,29,40.0,1.0,3,7.0,-9,0.0,Mild,Mild,Moderate,Mild,No significant change.,Substantial progress.,Substantial improv.
+102529,V06_V08,95,5,3.0,0,14,2,2.0,False,0.0,45.0,19,24.0,21.0,8,8.0,5,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+102978,V04_V06,90,2,2.0,0,19,2,0.0,False,0.0,25.0,10,23.0,2.0,2,4.0,-9,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+102978,V06_V08,95,4,6.0,0,10,2,5.0,False,0.0,41.0,23,25.0,16.0,4,-2.0,13,1.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,Substantial progress.
+102978,V08_V10,90,8,4.0,0,23,2,6.0,False,0.0,27.0,9,41.0,-14.0,-3,3.0,-14,0.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial improv.
+105711,V04_V06,95,7,8.0,0,18,2,0.0,False,0.0,13.0,6,33.0,-20.0,-3,-5.0,-12,0.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+105711,V06_V08,95,4,3.0,0,6,2,0.0,False,0.0,16.0,8,13.0,3.0,-1,1.0,2,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+107099,V04_V06,95,6,5.0,0,14,1,0.0,False,0.0,23.0,11,25.0,-2.0,1,-4.0,-3,4.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+107099,V06_V08,100,7,1.0,0,11,1,4.0,False,0.0,28.0,17,23.0,5.0,0,0.0,6,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+109451,V04_V06,90,8,8.0,0,19,0,0.0,False,0.0,28.0,14,35.0,-7.0,-3,1.0,-5,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+109451,V06_V08,100,5,9.0,0,14,2,0.0,False,0.0,37.0,18,28.0,9.0,2,3.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+109910,V06_V08,90,4,7.0,0,20,2,0.0,False,0.0,29.0,19,31.0,-2.0,0,-1.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+110192,V04_V06,100,3,1.0,0,10,1,0.0,False,0.0,12.0,8,14.0,-2.0,0,0.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+110192,V06_V08,90,3,1.0,0,8,1,0.0,False,0.0,20.0,13,12.0,8.0,1,2.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+110212,V06_V08,90,6,7.0,0,21,2,0.0,False,0.0,27.0,16,34.0,-7.0,3,-5.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+110220,V04_V06,95,4,9.0,0,34,2,5.0,False,0.0,55.0,33,52.0,3.0,0,1.0,-1,3.0,Mild,Mild,Moderate,Moderate,No significant change.,No significant change.,No significant change.
+110360,V06_V08,100,3,7.0,0,12,2,0.0,False,0.0,12.0,7,22.0,-10.0,0,-5.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+110535,V06_V08,100,1,2.0,0,22,1,1.0,False,0.0,32.0,25,26.0,6.0,2,2.0,3,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+111278,V04_V06,100,6,7.0,0,3,1,1.0,False,0.0,26.0,17,17.0,9.0,-3,-4.0,14,2.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial progress.
+112712,V04_V06,95,8,11.0,0,21,2,0.0,False,0.0,39.0,24,40.0,-1.0,-1,-3.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+112712,V06_V08,90,7,8.0,0,24,1,0.0,False,0.0,49.0,38,39.0,10.0,-1,-3.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial progress.
+113446,V04_V06,100,3,5.0,0,13,2,0.0,False,0.0,12.0,5,21.0,-9.0,2,-3.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+113446,V06_V08,95,5,2.0,0,5,2,0.0,False,0.0,19.0,10,12.0,7.0,0,2.0,5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+114137,V04_V06,95,7,13.0,0,16,2,0.0,False,0.0,43.0,19,36.0,7.0,2,2.0,3,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+114265,V06_V08,75,11,16.0,0,13,2,5.0,False,0.0,57.0,22,45.0,12.0,1,1.0,9,1.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+114272,V04_V06,90,8,8.0,0,41,2,0.0,False,0.0,70.0,48,57.0,13.0,0,4.0,7,2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial progress.
+114526,V04_V06,90,0,3.0,0,6,1,0.0,False,0.0,6.0,3,9.0,-3.0,0,0.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+114526,V06_V08,95,0,3.0,0,3,1,0.0,False,0.0,13.0,6,6.0,7.0,2,2.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+114615,V04_V06,100,5,2.0,0,8,1,0.0,False,0.0,20.0,12,15.0,5.0,0,1.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+114615,V06_V08,95,5,3.0,0,12,0,0.0,False,0.0,26.0,9,20.0,6.0,3,1.0,-3,5.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+115451,V04_V06,85,10,15.0,0,31,2,0.0,False,0.0,59.0,35,56.0,3.0,2,-3.0,4,0.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+115680,V04_V06,100,6,1.0,0,17,2,0.0,False,0.0,34.0,17,24.0,10.0,6,4.0,0,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+115820,V04_V06,90,5,5.0,0,28,2,0.0,False,0.0,32.0,24,38.0,-6.0,-4,2.0,-4,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+115820,V06_V08,85,1,7.0,0,24,2,0.0,False,0.0,33.0,20,32.0,1.0,7,-2.0,-4,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+116008,V06_V08,90,3,7.0,0,41,2,0.0,False,0.0,71.0,55,51.0,20.0,0,4.0,14,2.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial progress.
+116216,V06_V08,80,19,36.0,0,26,2,8.0,False,0.0,96.0,35,89.0,7.0,6,-6.0,9,-2.0,Moderate,Moderate,Mild,Moderate,Substantial progress.,Substantial improv.,Substantial progress.
+116508,V06_V08,90,4,7.0,0,15,1,0.0,False,0.0,21.0,12,26.0,-5.0,1,-3.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+116531,V04_V06,85,7,13.0,0,34,2,0.0,False,0.0,47.0,19,54.0,-7.0,5,3.0,-15,0.0,Mild,Moderate,Moderate,Mild,Substantial progress.,No significant change.,Substantial improv.
+116531,V06_V08,80,12,16.0,0,19,2,0.0,False,0.0,66.0,36,47.0,19.0,-1,3.0,17,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+116733,V04_V06,90,6,10.0,0,10,2,0.0,False,0.0,22.0,7,26.0,-4.0,3,-4.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+116733,V06_V08,95,9,6.0,0,7,1,0.0,False,0.0,29.0,13,22.0,7.0,-4,5.0,6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+121619,V06_V08,90,4,12.0,0,14,2,0.0,False,0.0,45.0,25,30.0,15.0,1,3.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+121626,V04_V06,100,2,5.0,0,20,2,0.0,False,0.0,26.0,16,27.0,-1.0,3,0.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+121626,V06_V08,80,5,5.0,0,16,2,0.0,False,0.0,50.0,34,26.0,24.0,0,4.0,18,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+121854,V04_V06,100,1,5.0,0,18,2,0.0,False,0.0,27.0,24,24.0,3.0,-1,-2.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+121854,V06_V08,85,0,3.0,0,24,2,0.0,False,0.0,27.0,14,27.0,0.0,8,-1.0,-10,3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+123594,V04_V06,95,8,12.0,0,10,2,3.0,False,0.0,32.0,15,33.0,-1.0,-3,-6.0,5,3.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,No significant change.
+123594,V06_V08,100,5,6.0,0,15,2,6.0,False,0.0,25.0,12,32.0,-7.0,-2,1.0,-3,-3.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+126130,V04_V06,90,5,7.0,0,15,1,2.0,False,0.0,38.0,26,29.0,9.0,1,-1.0,11,-2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+127075,V04_V06,90,3,9.0,0,41,2,4.0,False,0.0,54.0,36,57.0,-3.0,3,3.0,-5,-4.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+130156,V04_V06,100,4,1.0,0,20,2,0.0,False,0.0,34.0,26,25.0,9.0,0,3.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+130156,V06_V08,100,4,4.0,0,26,2,0.0,False,0.0,26.0,18,34.0,-8.0,2,-2.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+130828,V04_V06,90,10,5.0,0,19,2,0.0,False,0.0,32.0,10,34.0,-2.0,0,-2.0,-9,9.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+130828,V06_V08,85,10,3.0,0,10,2,9.0,False,0.0,14.0,1,32.0,-18.0,-2,0.0,-9,-7.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+133507,V04_V06,100,1,1.0,0,13,1,5.0,False,0.0,15.0,11,20.0,-5.0,0,0.0,-2,-3.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+133507,V06_V08,100,1,1.0,0,11,2,2.0,False,0.0,21.0,12,15.0,6.0,4,0.0,1,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+134442,V04_V06,80,0,4.0,0,17,2,1.0,False,0.0,18.0,12,22.0,-4.0,5,-3.0,-5,-1.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial improv.,Substantial improv.
+134442,V06_V08,90,5,1.0,0,12,2,0.0,False,0.0,20.0,14,18.0,2.0,0,0.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+134456,V04_V06,100,4,1.0,0,16,2,0.0,False,0.0,15.0,9,21.0,-6.0,1,0.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+134456,V06_V08,100,5,1.0,0,9,2,0.0,False,0.0,19.0,13,15.0,4.0,-1,1.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+135861,V04_V06,100,5,3.0,0,17,2,0.0,False,0.0,37.0,27,25.0,12.0,-1,3.0,10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+135861,V06_V08,95,4,6.0,0,27,2,0.0,False,0.0,50.0,27,37.0,13.0,6,5.0,0,2.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+137450,V04_V06,95,3,4.0,0,12,2,0.0,False,0.0,32.0,23,19.0,13.0,2,0.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+137450,V06_V08,95,5,4.0,0,23,2,0.0,False,0.0,38.0,30,32.0,6.0,-2,1.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+137842,V04_V06,100,3,2.0,0,18,1,3.0,False,0.0,34.0,23,26.0,8.0,3,1.0,5,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+137842,V06_V08,100,6,3.0,0,23,2,2.0,False,0.0,41.0,37,34.0,7.0,-5,0.0,14,-2.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+137886,V04_V06,100,8,13.0,0,26,2,0.0,False,0.0,73.0,41,47.0,26.0,5,6.0,15,0.0,Mild,Moderate,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+139982,V04_V06,100,1,1.0,0,23,1,0.0,False,0.0,28.0,24,25.0,3.0,0,2.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+139982,V06_V08,100,1,3.0,0,24,2,0.0,False,0.0,33.0,28,28.0,5.0,2,-1.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+140027,V06_V08,100,3,4.0,0,26,2,0.0,False,0.0,28.0,17,33.0,-5.0,3,1.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+140041,V04_V06,80,12,15.0,0,9,2,13.0,False,0.0,57.0,19,49.0,8.0,3,-2.0,10,-3.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
+140568,V06_V08,90,5,4.0,0,15,2,0.0,False,0.0,27.0,17,24.0,3.0,-2,1.0,2,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+140671,V04_V06,90,13,11.0,0,13,2,0.0,False,0.0,33.0,11,37.0,-4.0,-2,-2.0,-2,2.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+140671,V06_V08,90,11,9.0,0,11,2,2.0,False,0.0,27.0,9,33.0,-6.0,-6,-1.0,-2,3.0,Moderate,Mild,Mild,Mild,Substantial improv.,No significant change.,No significant change.
+140722,V04_V06,95,2,3.0,0,8,1,0.0,False,0.0,15.0,10,13.0,2.0,-1,1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+140722,V06_V08,95,1,4.0,0,10,1,0.0,False,0.0,26.0,14,15.0,11.0,0,7.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+141135,V06_V08,100,3,3.0,0,13,1,0.0,False,0.0,16.0,9,19.0,-3.0,0,1.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+141692,V04_V06,100,3,3.0,0,23,2,0.0,False,0.0,31.0,25,29.0,2.0,-1,1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+141692,V06_V08,90,2,4.0,0,25,2,0.0,False,0.0,43.0,22,31.0,12.0,6,6.0,-3,3.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial improv.
+142004,V04_V06,100,6,2.0,0,10,1,0.0,False,0.0,24.0,7,18.0,6.0,5,1.0,-3,3.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,Substantial improv.
+142007,V04_V06,95,1,7.0,0,21,2,0.0,False,0.0,61.0,37,29.0,32.0,7,9.0,16,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+142007,V06_V08,90,8,16.0,0,37,2,0.0,False,0.0,45.0,26,61.0,-16.0,-1,-6.0,-11,2.0,Mild,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+142523,V04_V06,100,1,0.0,0,5,1,0.0,False,0.0,7.0,5,6.0,1.0,0,1.0,0,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+142629,V06_V08,90,5,4.0,0,15,2,0.0,False,0.0,36.0,24,24.0,12.0,0,3.0,9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+142957,V06_V08,90,8,16.0,0,36,2,0.0,False,0.0,64.0,38,60.0,4.0,0,0.0,2,2.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,No significant change.
+143835,V06_V08,80,6,17.0,0,31,2,3.0,False,0.0,58.0,32,57.0,1.0,4,-1.0,1,-3.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+144120,V04_V06,90,0,3.0,0,17,2,0.0,False,0.0,20.0,15,20.0,0.0,0,2.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+144120,V06_V08,95,0,5.0,0,15,2,0.0,False,0.0,25.0,17,20.0,5.0,2,1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+145940,V04_V06,100,10,6.0,0,28,2,0.0,False,0.0,34.0,23,44.0,-10.0,-3,-2.0,-5,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+148492,V04_V06,85,13,3.0,0,20,2,0.0,False,0.0,46.0,30,36.0,10.0,-2,2.0,10,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+148699,V04_V06,95,1,2.0,0,22,2,0.0,False,0.0,52.0,23,25.0,27.0,9,14.0,1,3.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+148699,V06_V08,90,10,16.0,0,23,2,3.0,False,0.0,73.0,34,52.0,21.0,7,6.0,11,-3.0,Mild,Moderate,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+148945,V04_V06,95,0,1.0,0,17,2,0.0,False,0.0,14.0,12,18.0,-4.0,0,1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+148945,V06_V08,100,0,2.0,0,12,2,0.0,False,0.0,14.0,13,14.0,0.0,0,-1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+149511,V04_V06,100,3,2.0,0,7,2,0.0,False,0.0,28.0,14,12.0,16.0,2,7.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+149511,V06_V08,90,5,9.0,0,14,2,0.0,False,0.0,9.0,4,28.0,-19.0,-1,-8.0,-10,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+149516,V04_V06,95,4,5.0,0,14,2,0.0,False,0.0,13.0,6,23.0,-10.0,1,-3.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+149937,V04_V06,85,6,17.0,0,25,2,0.0,False,0.0,50.0,29,48.0,2.0,3,-5.0,4,0.0,Mild,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+149937,V06_V08,90,9,12.0,0,29,2,0.0,False,0.0,61.0,36,50.0,11.0,-1,5.0,7,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+149940,V06_V08,95,8,7.0,0,5,1,6.0,False,0.0,19.0,12,26.0,-7.0,-6,-2.0,7,-6.0,Mild,Mild,Mild,Moderate,Substantial improv.,No significant change.,Substantial progress.
+149945,V06_V08,90,13,19.0,0,19,2,0.0,False,0.0,41.0,18,51.0,-10.0,-2,-7.0,-1,0.0,Moderate,Moderate,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+150110,V06_V08,90,3,2.0,1,6,1,7.0,True,0.0,30.0,9,18.0,12.0,2,5.0,3,2.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,No significant change.
+150414,V04_V06,95,8,4.0,0,16,2,0.0,False,0.0,36.0,15,28.0,8.0,2,3.0,-1,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+151050,V04_V06,90,13,11.0,0,18,2,0.0,False,0.0,47.0,16,42.0,5.0,2,3.0,-2,2.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+151050,V06_V08,80,15,14.0,0,16,2,2.0,False,0.0,62.0,29,47.0,15.0,-3,1.0,13,4.0,Moderate,Moderate,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+151111,V04_V06,90,4,5.0,0,4,2,4.0,False,0.0,29.0,10,17.0,12.0,1,6.0,6,-1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+151111,V06_V08,90,5,11.0,0,10,2,3.0,False,0.0,43.0,17,29.0,14.0,1,5.0,7,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+152369,V04_V06,100,2,3.0,0,10,1,0.0,False,0.0,25.0,12,15.0,10.0,3,5.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+152369,V06_V08,95,5,8.0,0,12,1,0.0,False,0.0,27.0,11,25.0,2.0,0,0.0,-1,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+152616,V04_V06,95,4,13.0,0,12,0,0.0,False,0.0,34.0,15,29.0,5.0,2,0.0,3,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+153089,V04_V06,95,5,5.0,0,5,1,0.0,False,0.0,18.0,8,15.0,3.0,0,0.0,3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+153089,V06_V08,100,5,5.0,0,8,1,0.0,False,0.0,15.0,7,18.0,-3.0,0,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+153118,V06_V08,95,15,12.0,0,12,1,11.0,False,0.0,44.0,27,50.0,-6.0,-9,-4.0,15,-8.0,Moderate,Mild,Mild,Moderate,Substantial improv.,Substantial improv.,Substantial progress.
+153191,V06_V08,100,8,1.0,0,6,2,1.0,False,0.0,34.0,20,16.0,18.0,3,1.0,14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+156304,V04_V06,80,8,11.0,0,38,2,0.0,False,0.0,30.0,19,57.0,-27.0,-3,-5.0,-19,0.0,Mild,Mild,Moderate,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+156676,V04_V06,95,3,5.0,0,21,1,4.0,False,0.0,52.0,25,33.0,19.0,6,6.0,4,3.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,No significant change.
+157410,V04_V06,100,1,0.0,0,9,2,0.0,False,0.0,7.0,4,10.0,-3.0,2,0.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+157410,V06_V08,100,3,0.0,0,4,1,0.0,False,0.0,8.0,6,7.0,1.0,-1,0.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+157589,V06_V08,90,8,16.0,0,36,3,1.0,False,0.0,62.0,36,61.0,1.0,-1,3.0,0,-1.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,No significant change.
+158359,V04_V06,95,1,4.0,0,5,1,0.0,False,0.0,15.0,7,10.0,5.0,1,2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+158359,V06_V08,95,2,6.0,0,7,1,0.0,False,0.0,10.0,6,15.0,-5.0,-2,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+160040,V04_V06,95,0,2.0,0,24,2,0.0,False,0.0,30.0,23,26.0,4.0,2,3.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+160040,V06_V08,95,2,5.0,0,23,2,0.0,False,0.0,38.0,25,30.0,8.0,6,0.0,2,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+160057,V06_V08,100,1,3.0,0,23,2,0.0,False,0.0,24.0,22,27.0,-3.0,0,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+160822,V04_V06,95,15,16.0,0,14,1,0.0,False,0.0,46.0,13,45.0,1.0,0,2.0,-1,0.0,Moderate,Moderate,Mild,Mild,No significant change.,No significant change.,No significant change.
+161236,V04_V06,90,3,4.0,0,11,2,0.0,False,0.0,29.0,17,18.0,11.0,-1,6.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+161236,V06_V08,95,2,10.0,0,17,2,0.0,False,0.0,18.0,10,29.0,-11.0,-1,-3.0,-7,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+161673,V04_V06,95,8,16.0,0,22,2,0.0,False,0.0,46.0,20,46.0,0.0,4,-2.0,-2,0.0,Mild,Moderate,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+162793,V04_V06,90,4,9.0,0,32,2,0.0,False,0.0,81.0,57,45.0,36.0,-1,12.0,25,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+162929,V04_V06,70,13,32.0,0,36,2,0.0,False,0.0,102.0,55,81.0,21.0,2,-1.0,19,1.0,Moderate,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial progress.
+162941,V04_V06,100,3,9.0,0,19,2,1.0,False,0.0,25.0,15,32.0,-7.0,-1,-1.0,-4,-1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+162941,V06_V08,100,2,8.0,0,15,1,0.0,False,0.0,22.0,14,25.0,-3.0,4,-6.0,-1,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial improv.,No significant change.
+162994,V04_V06,95,5,8.0,0,35,2,2.0,False,0.0,79.0,45,50.0,29.0,10,11.0,10,-2.0,Mild,Mild,Moderate,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+162994,V06_V08,75,15,19.0,0,45,2,0.0,False,0.0,104.0,60,79.0,25.0,1,9.0,15,0.0,Moderate,Moderate,Moderate,Mild,No significant change.,Substantial progress.,Substantial progress.
+163420,V04_V06,80,8,9.0,0,15,2,0.0,False,0.0,35.0,21,32.0,3.0,-3,0.0,6,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial progress.
+164491,V04_V06,95,4,1.0,0,7,2,0.0,False,0.0,18.0,12,12.0,6.0,-2,0.0,5,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+165174,V04_V06,75,9,19.0,0,36,2,0.0,False,0.0,109.0,63,64.0,45.0,5,10.0,27,3.0,Mild,Moderate,Moderate,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+166740,V04_V06,100,2,1.0,0,11,1,2.0,False,0.0,15.0,7,16.0,-1.0,1,1.0,-4,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+168299,V04_V06,100,2,9.0,0,16,1,0.0,False,0.0,35.0,15,27.0,8.0,8,0.0,-1,1.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+168306,V04_V06,100,3,1.0,0,8,2,0.0,False,0.0,22.0,18,12.0,10.0,0,0.0,10,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+170472,V04_V06,85,14,14.0,0,29,2,0.0,False,0.0,41.0,17,57.0,-16.0,-1,-3.0,-12,0.0,Moderate,Moderate,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+170472,V06_V08,90,13,11.0,0,17,1,0.0,False,0.0,49.0,22,41.0,8.0,-1,1.0,5,3.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+170481,V04_V06,95,4,4.0,0,12,1,4.0,False,0.0,24.0,11,24.0,0.0,3,-2.0,-1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+170793,V04_V06,90,2,8.0,0,15,1,0.0,False,0.0,24.0,13,25.0,-1.0,0,1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+172084,V04_V06,80,5,11.0,0,31,2,0.0,False,0.0,64.0,34,47.0,17.0,1,6.0,3,7.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,No significant change.
+172260,V04_V06,95,4,3.0,0,9,1,0.0,False,0.0,18.0,11,16.0,2.0,1,-1.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+172354,V04_V06,100,6,11.0,0,27,2,0.0,False,0.0,34.0,23,44.0,-10.0,-1,-5.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,Substantial improv.
+174131,V04_V06,100,3,3.0,0,13,1,0.0,False,0.0,29.0,24,19.0,10.0,-2,1.0,11,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+174133,V04_V06,85,5,6.0,0,34,2,0.0,False,0.0,50.0,36,45.0,5.0,2,-2.0,2,3.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,No significant change.
+174151,V04_V06,90,15,10.0,0,15,2,0.0,False,0.0,39.0,12,40.0,-1.0,2,0.0,-3,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+174615,V04_V06,95,5,5.0,0,37,2,0.0,False,0.0,52.0,40,47.0,5.0,3,-1.0,3,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,No significant change.
+175411,V04_V06,100,1,5.0,0,17,1,0.0,False,0.0,26.0,13,23.0,3.0,3,4.0,-4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+176239,V04_V06,95,1,4.0,0,7,1,0.0,False,0.0,23.0,13,12.0,11.0,3,0.0,6,2.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+181684,V04_V06,90,3,1.0,0,18,2,0.0,False,0.0,24.0,20,22.0,2.0,-2,2.0,2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+181704,V04_V06,90,2,10.0,0,11,1,3.0,False,0.0,23.0,15,26.0,-3.0,2,-6.0,4,-3.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+181822,V04_V06,100,4,3.0,0,14,2,0.0,False,0.0,36.0,22,21.0,15.0,-2,9.0,8,0.0,Mild,Mild,Mild,Mild,No significant change.,Substantial progress.,Substantial progress.
+182341,V04_V06,90,8,4.0,0,27,2,0.0,False,0.0,23.0,13,39.0,-16.0,0,-2.0,-14,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+182745,V04_V06,90,7,8.0,0,11,2,0.0,False,0.0,51.0,22,26.0,25.0,7,7.0,11,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial progress.
+182927,V04_V06,90,9,7.0,0,16,2,0.0,False,0.0,33.0,14,32.0,1.0,2,1.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+182984,V04_V06,90,6,6.0,0,21,2,0.0,False,0.0,18.0,9,33.0,-15.0,-3,0.0,-12,0.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+182990,V04_V06,100,2,1.0,0,11,1,0.0,False,0.0,14.0,9,14.0,0.0,2,0.0,-2,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+184432,V04_V06,100,7,3.0,0,12,1,0.0,False,0.0,11.0,4,22.0,-11.0,-2,-1.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+186108,V04_V06,95,2,2.0,0,14,2,3.0,False,0.0,12.0,1,21.0,-9.0,1,3.0,-13,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+186755,V04_V06,95,9,15.0,0,33,3,0.0,False,0.0,53.0,22,57.0,-4.0,1,-1.0,-11,7.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+188069,V04_V06,100,7,8.0,0,21,2,0.0,False,0.0,41.0,25,36.0,5.0,1,0.0,4,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+190360,V04_V06,95,6,5.0,0,16,2,2.0,False,0.0,37.0,23,29.0,8.0,2,-2.0,7,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+190603,V04_V06,95,6,6.0,0,11,2,3.0,False,0.0,21.0,12,26.0,-5.0,0,-3.0,1,-3.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+192111,V04_V06,95,8,11.0,0,29,1,0.0,False,0.0,50.0,33,48.0,2.0,1,-4.0,4,1.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+194803,V04_V06,90,2,3.0,0,27,2,0.0,False,0.0,24.0,19,32.0,-8.0,-1,1.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+194971,V04_V06,75,13,21.0,0,38,2,0.0,False,0.0,72.0,42,72.0,0.0,-3,-1.0,4,0.0,Moderate,Moderate,Moderate,Mild,Substantial improv.,No significant change.,No significant change.
+198746,V04_V06,90,13,25.0,0,33,2,0.0,False,0.0,54.0,17,71.0,-17.0,2,-3.0,-16,0.0,Moderate,Moderate,Moderate,Mild,No significant change.,Substantial improv.,Substantial improv.
+201630,V04_V06,100,9,5.0,0,38,2,2.0,False,0.0,53.0,31,54.0,-1.0,-3,6.0,-7,3.0,Mild,Mild,Moderate,Mild,Substantial improv.,Substantial progress.,Substantial improv.
+209270,V04_V06,95,1,3.0,0,10,1,0.0,False,0.0,25.0,10,14.0,11.0,6,5.0,0,0.0,Mild,Mild,Mild,Mild,Substantial progress.,No significant change.,No significant change.
+211045,V04_V06,90,6,20.0,0,46,2,7.0,False,0.0,79.0,53,79.0,0.0,-2,-4.0,7,-1.0,Mild,Moderate,Moderate,Moderate,No significant change.,Substantial improv.,Substantial progress.
+211482,V04_V06,95,6,8.0,0,22,2,0.0,False,0.0,27.0,13,36.0,-9.0,-4,1.0,-9,3.0,Mild,Mild,Mild,Mild,Substantial improv.,No significant change.,Substantial improv.
+212042,V04_V06,95,10,9.0,0,21,2,9.0,False,0.0,49.0,24,49.0,0.0,5,0.0,3,-8.0,Mild,Mild,Mild,Moderate,Substantial progress.,No significant change.,No significant change.
+212954,V04_V06,100,3,8.0,0,18,1,0.0,False,0.0,25.0,15,29.0,-4.0,0,-1.0,-3,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+214241,V04_V06,95,5,8.0,0,18,1,0.0,False,0.0,38.0,11,31.0,7.0,8,6.0,-7,0.0,Mild,Mild,Mild,Mild,Substantial progress.,Substantial progress.,Substantial improv.
+216317,V04_V06,100,4,4.0,0,35,2,0.0,False,0.0,46.0,35,43.0,3.0,2,1.0,0,0.0,Mild,Mild,Moderate,Mild,No significant change.,No significant change.,No significant change.
+216970,V04_V06,90,1,1.0,0,32,2,0.0,False,0.0,44.0,37,34.0,10.0,1,3.0,5,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+217838,V04_V06,100,0,2.0,0,8,1,5.0,False,0.0,14.0,5,15.0,-1.0,1,1.0,-3,0.0,Mild,Mild,Mild,Moderate,No significant change.,No significant change.,Substantial improv.
+218338,V04_V06,100,1,1.0,0,14,1,0.0,False,0.0,11.0,9,16.0,-5.0,-1,1.0,-5,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+218494,V04_V06,95,13,10.0,0,13,1,0.0,False,0.0,50.0,26,36.0,14.0,-2,3.0,13,0.0,Moderate,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+219605,V04_V06,100,3,3.0,0,27,2,0.0,False,0.0,44.0,33,33.0,11.0,1,1.0,6,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+219715,V04_V06,100,2,6.0,0,11,2,0.0,False,0.0,34.0,22,19.0,15.0,2,1.0,11,1.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+221493,V04_V06,95,6,3.0,0,8,2,0.0,False,0.0,18.0,9,17.0,1.0,-1,1.0,1,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+222261,V04_V06,90,7,8.0,0,14,1,0.0,False,0.0,24.0,13,29.0,-5.0,-2,-7.0,-1,5.0,Mild,Mild,Mild,Mild,No significant change.,Substantial improv.,No significant change.
+223557,V04_V06,80,9,15.0,0,14,1,0.0,False,0.0,55.0,24,38.0,17.0,2,5.0,10,0.0,Mild,Moderate,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+226603,V04_V06,90,13,11.0,0,37,2,0.0,False,0.0,84.0,45,61.0,23.0,2,13.0,8,0.0,Moderate,Mild,Moderate,Mild,No significant change.,Substantial progress.,Substantial progress.
+228315,V04_V06,95,6,9.0,0,8,1,6.0,False,0.0,29.0,16,29.0,0.0,1,-3.0,8,-6.0,Mild,Mild,Mild,Moderate,No significant change.,Substantial improv.,Substantial progress.
+228551,V04_V06,95,7,7.0,0,28,2,0.0,False,0.0,52.0,31,42.0,10.0,2,1.0,3,4.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+231983,V04_V06,90,2,5.0,0,20,2,0.0,False,0.0,39.0,26,27.0,12.0,1,5.0,6,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial progress.
+237943,V04_V06,80,8,16.0,0,49,3,0.0,False,0.0,65.0,38,73.0,-8.0,1,2.0,-11,0.0,Mild,Moderate,Moderate,Mild,No significant change.,No significant change.,Substantial improv.
+238548,V04_V06,90,6,8.0,0,14,2,4.0,False,0.0,13.0,5,32.0,-19.0,-3,-4.0,-9,-3.0,Mild,Mild,Mild,Mild,Substantial improv.,Substantial improv.,Substantial improv.
+238871,V04_V06,95,0,1.0,0,11,1,0.0,False,0.0,19.0,10,12.0,7.0,3,2.0,-1,3.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,No significant change.
+239947,V04_V06,85,13,12.0,0,21,2,6.0,False,0.0,41.0,17,52.0,-11.0,-3,-3.0,-4,-1.0,Moderate,Mild,Mild,Moderate,Substantial improv.,Substantial improv.,Substantial improv.
+240358,V04_V06,95,3,5.0,0,19,2,0.0,False,0.0,18.0,11,27.0,-9.0,-1,0.0,-8,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+243027,V04_V06,85,3,10.0,0,20,1,0.0,False,0.0,23.0,11,33.0,-10.0,-1,0.0,-9,0.0,Mild,Mild,Mild,Mild,No significant change.,No significant change.,Substantial improv.
+252147,V04_V06,85,11,16.0,0,22,2,7.0,False,0.0,67.0,28,56.0,11.0,2,1.0,6,2.0,Moderate,Moderate,Mild,Moderate,No significant change.,No significant change.,Substantial progress.
